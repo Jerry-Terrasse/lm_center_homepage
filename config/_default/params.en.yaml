@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "大模型研究协同创新中心"
+      text: "Large Model Innovation Center"
       filename: "icons/nju-emblem-cs.png"
 
 # Site footer
@@ -50,7 +50,7 @@ footer:
 
 # Localization
 locale:
-  date_format: '2006年1月2日'
+  date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
 # Site features
