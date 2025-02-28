@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 王利民
-tags: [mm, mm_prof]
+tags: [mm, mm_prof, body, body_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 

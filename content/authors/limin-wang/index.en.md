@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Limin Wang
-tags: [mm, mm_prof]
+tags: [mm, mm_prof, body, body_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
