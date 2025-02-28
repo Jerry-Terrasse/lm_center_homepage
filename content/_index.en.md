@@ -39,16 +39,44 @@ sections:
           filename: hero-bg.jpg
           filters:
             brightness: 0.5
-  # - block: markdown
-  #   content:
-  #     title: '📚 Our Vision'
-  #     subtitle: ''
-  #     text: |-
-  #       Human can integrate auditory sense, visual sense, and tactile sense in environment perception, and improve the abilities of understand and reforming environment by continuous learning and practice. Currently, computer has the primary auditory sense and visual sense, and its storage and processing abilities are constantly improved. However, computer is still inferior to human in environment perception, and the corresponding processing technology requires long-term development. Multimedia computing group (MCG) aims to study environment perception technology and use it in real applications. We hope to improve the perception ability and leverage the cognitive level of computer, and assist human to understand and reform the world.
-
-  #     # Environment perception research requires the integration of various techniques, including multimedia content classification and processing, machine learning, modeling and visualization, intelligent interaction and big data processing. Currently, our research mainly involves: stereo visual media processing, object retrieval, scene modeling and processing, vision navigation, visual media retargeting, big data parallel processing, and large scale data visualization.
-  #   design:
-  #     columns: '1'
+  - block: collection
+    id: news
+    content:
+      title: News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+  - block: collection
+    id: research-groups
+    content:
+      title: Research Groups
+      filters:
+        folders:
+          - research
+      count: 0
+    design:
+      view: article-grid
+      columns: 3
   - block: collection
     id: papers
     content:
@@ -70,36 +98,7 @@ sections:
   #       exclude_featured: false
   #   design:
   #     view: citation
-  - block: collection
-    id: news
-    content:
-      title: News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      # page_type: post
-      page_type: publication
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+
   # - block: collection
   #   id: events
   #   content:
