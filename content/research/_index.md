@@ -17,6 +17,7 @@ sections:
       filters:
         folders:
           - research
+      count: 0
     design:
       view: article-grid
       fill_image: false
