@@ -14,7 +14,7 @@ sections:
       filters:
         folders:
           - authors
-        tag: ke_prof
+        tag: kg_prof
       count: 0
     design:
       view: people-grid
@@ -23,7 +23,7 @@ sections:
     content:
       title: Research Overview
       text: |
-        Nanjing University Large Model Knowledge Enhancement Research Group has been engaged in research on large model knowledge enhancement, code generation, and related fields. In the era of large models, our focus is on improving the models' capabilities in knowledge enhancement, reasoning, and multilingual understanding. We have conducted studies on foundation model knowledge enhancement and code large models.
+        The LLM + Knowledge research group has been engaged in long-term research on large language model knowledge enhancement, controllable generation, and domain-specific construction. The group has published more than 20 papers in high-level international conferences and journals in the fields of artificial intelligence, knowledge graphs, and natural language processing. It has undertaken over 10 related R&D projects for companies such as Huawei, Tencent, BAAI, Baichuan, State Grid, and CETC.
 
         ### Representative Achievement 1: Foundation Model Knowledge Enhancement
         ![base](/research/ke/base.png)
