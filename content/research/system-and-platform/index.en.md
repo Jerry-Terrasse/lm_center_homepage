@@ -37,10 +37,11 @@ sections:
 
         **Related Papers:**
 
-        - Shen-Yi Zhao, Chang-Wei Shi, Yin-Peng Xie, Wu-Jun Li, <a href="https://arxiv.org/abs/2007.13985" target="_blank">Stochastic Normalized Gradient Descent with Momentum for Large-Batch Training</a>, SCIENCE CHINA Information Sciences (SCIS) 2024.
-        - Hao Lin, Ke Wu, Jie Li, Jun Li, Wu-Jun Li, <a href="https://arxiv.org/abs/2307.16375" target="_blank">UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming</a>, arXiv 2023.
-        - Chang-Wei Shi, Yi-Rui Yang, Wu-Jun Li, <a href="https://arxiv.org/abs/2407.19234" target="_blank">Ordered Momentum for Asynchronous SGD</a>, NeurIPS 2024.
-        - Yi-Rui Yang, Chang-Wei Shi, Wu-Jun Li, <a href="https://openreview.net/forum?id=wriKDQqiOQ" target="_blank">On the Effect of Batch Size in Byzantine-Robust Distributed Learning</a>, ICLR 2024.
+        - Hao Lin, Ke Wu, Jie Li, Jun Li, Wu-Jun Li. <a href="https://arxiv.org/abs/2307.16375" target="_blank">UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming</a>. CVPR 2025.
+        - Shen-Yi Zhao, Chang-Wei Shi, Yin-Peng Xie, Wu-Jun Li. <a href="https://arxiv.org/abs/2007.13985" target="_blank">Stochastic Normalized Gradient Descent with Momentum for Large-Batch Training</a>. SCIENCE CHINA Information Sciences (SCIS), 2024.
+        - Chang-Wei Shi, Yi-Rui Yang, Wu-Jun Li. <a href="https://arxiv.org/abs/2407.19234" target="_blank">Ordered Momentum for Asynchronous SGD</a>. Advances in Neural Information Processing Systems (NeurIPS), 2024.
+        - Yi-Rui Yang, Chang-Wei Shi, Wu-Jun Li. <a href="https://openreview.net/forum?id=wriKDQqiOQ" target="_blank">On the Effect of Batch Size in Byzantine-Robust Distributed Learning</a>. The Twelfth International Conference on Learning Representations (ICLR), 2024.
+        - Chang-Wei Shi, Shen-Yi Zhao, Yin-Peng Xie, Hao Gao, Wu-Jun Li. Global Momentum Compression for Sparse Communication in Distributed SGD. arXiv 2024.
 
         ### Achievement 2: Efficient Training Algorithms Based on Continual Learning
         ![InfLoRA](/research/system-and-platform/inflora.png)

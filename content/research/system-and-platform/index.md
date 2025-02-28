@@ -39,10 +39,10 @@ sections:
 
         **相关论文：**
 
-        - Hao Lin, Ke Wu, Jie Li, Jun Li, Wu-Jun Li. UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming. CVPR 2025.
-        - Shen-Yi Zhao, Chang-Wei Shi, Yin-Peng Xie, Wu-Jun Li. Stochastic Normalized Gradient Descent with Momentum for Large-Batch Training. SCIENCE CHINA Information Sciences (SCIS), 2024.
-        - Chang-Wei Shi, Yi-Rui Yang, Wu-Jun Li. Ordered Momentum for Asynchronous SGD. Advances in Neural Information Processing Systems (NeurIPS), 2024.
-        - Yi-Rui Yang, Chang-Wei Shi, Wu-Jun Li. On the Effect of Batch Size in Byzantine-Robust Distributed Learning. The Twelfth International Conference on Learning Representations (ICLR), 2024.
+        - Hao Lin, Ke Wu, Jie Li, Jun Li, Wu-Jun Li. <a href="https://arxiv.org/abs/2307.16375" target="_blank">UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming</a>. CVPR 2025.
+        - Shen-Yi Zhao, Chang-Wei Shi, Yin-Peng Xie, Wu-Jun Li. <a href="https://arxiv.org/abs/2007.13985" target="_blank">Stochastic Normalized Gradient Descent with Momentum for Large-Batch Training</a>. SCIENCE CHINA Information Sciences (SCIS), 2024.
+        - Chang-Wei Shi, Yi-Rui Yang, Wu-Jun Li. <a href="https://arxiv.org/abs/2407.19234" target="_blank">Ordered Momentum for Asynchronous SGD</a>. Advances in Neural Information Processing Systems (NeurIPS), 2024.
+        - Yi-Rui Yang, Chang-Wei Shi, Wu-Jun Li. <a href="https://openreview.net/forum?id=wriKDQqiOQ" target="_blank">On the Effect of Batch Size in Byzantine-Robust Distributed Learning</a>. The Twelfth International Conference on Learning Representations (ICLR), 2024.
         - Chang-Wei Shi, Shen-Yi Zhao, Yin-Peng Xie, Hao Gao, Wu-Jun Li. Global Momentum Compression for Sparse Communication in Distributed SGD. arXiv 2024.
 
         ### 代表性成果2：基于持续学习的高效能训练算法
