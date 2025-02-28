@@ -18,7 +18,7 @@ role: <a href='https://www.nju.edu.cn'>南京大学&nbsp;&nbsp;计算机学院</
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 知识融合小组
+  - name: 知识融合小组 @ 万维网软件研究组
     url: http://ws2.nju.edu.cn/kgwiki/doku.php?id=start
 
 # Social network links
@@ -30,7 +30,7 @@ profiles:
   - icon: custom/dblp
     url: https://dblp.org/pid/52/173-7.html
   - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=iWs168sAAAAJ&amp;hl=en
+    url: https://scholar.google.com/citations?user=iWs168sAAAAJ&hl=en
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram

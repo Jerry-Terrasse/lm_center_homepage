@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wei Hu
+title: Zequn Sun
 tags: [ke, ke_prof]
 
 # Name pronunciation (optional)
@@ -28,9 +28,9 @@ profiles:
     url: 'mailto:jingweix@nju.edu.cn'
     label: E-mail Me
   - icon: custom/dblp
-    url: https://dblp.org/pid/52/173-7.html
+    url: https://dblp.org/pid/186/9718.html
   - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=iWs168sAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=ph8SU3EAAAAJ&hl=en
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
