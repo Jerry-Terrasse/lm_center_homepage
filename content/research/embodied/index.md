@@ -32,7 +32,7 @@ sections:
       text: |
         具身决策大模型研究小组关注具身智能前沿技术研究，围绕搭建可泛化的具身智能体整体目标，在具身表征建模、具身策略学习、具身分层规划与执行等方向开展系列研究工作，取得如下代表性研究成果：
 
-        ### 代表性成果1：面向具身操作的视觉表征预训练模型STP
+        ### 代表性成果1：时空预测驱动的具身视觉表征预训练模型STP
         ![STP](./stp.png)
 
         本成果利用大规模人类第一视角操纵视频数据集，以解耦的空间预测和时序预测作为自监督学习代理任务，提出了专用于机器人运动控制的图像表征模型STP。STP能够无监督地从视频数据中学习复杂场景的空间几何细节和人类行为的时序动力学属性，进而联合捕获图像中的内容特征和运动敏感特征。经过预训练的STP模型，无需微调即可直接迁移到机器人运动控制任务中，并在真实环境和七个仿真环境中的50多项任务中超越了现有基线方法。这些任务涵盖了单机械臂、双机械臂、三指灵巧手、五指灵巧手以及人形机器人的多种操纵与移动任务。
@@ -41,8 +41,16 @@ sections:
 
         Jiange Yang, Bei Liu, Jianlong Fu, Bocheng Pan, Gangshan Wu, Limin Wang, <a href="https://arxiv.org/abs/2403.05304" target="_blank">Spatiotemporal Predictive Pre-training for Robotic Motor Control</a>.
 
+        ### 代表性成果2：三维渲染重建驱动的具身视觉表征预训练模型SPA
+        ![SPA](./spa.png)
 
-        ### 代表性成果2：多域数据学习驱动的具身预测与决策模型Tra-MoE
+        本成果提出了视觉表征学习框架SPA，通过增强三维空间感知来提高在具身智能任务中的表示学习能力。SPA从合成室内场景和真实世界机器人交互场景中构建了一个含有相机位姿、深度图以及语义特征图标注的大规模多视角数据集，并基于多视角图像和相机位姿构建三维体积特征，进而结合掩码技术及可微神经渲染生成RGB图、深度图和语义图，同时通过Eikonal正则化和SDF监督进一步提升三维几何一致性。经过6000 GPU小时训练的SPA在真实环境和八个仿真环境的200余项任务中平均性能优于其他基线方法，其中在高达30.3%的任务中排名第一。
+
+        相关论文：
+
+        Haoyi Zhu, Honghui Yang, Yating Wang, Jiange Yang, Limin Wang, Tong He, <a href="https://arxiv.org/abs/2410.08208" target="_blank">SPA: 3D Spatial-Awareness Enables Effective Embodied Representation</a>, in ICLR 2025.
+
+        ### 代表性成果3：多域数据学习驱动的具身预测与决策模型Tra-MoE
         ![Tra-MoE](./tramoe.png)
 
         本成果提出了基于稀疏门控混合专家架构的轨迹预测模型Tra-MoE。Tra-MoE通过更好地平衡参数协作化和参数专用化进而从大规模、跨域、无动作标签的视频数据中学习泛化性更强且性能超过同等参数量密集基线的轨迹预测模型，成功实现了通专融合的网络架构。Tra-MoE有效结合了不同物理引擎渲染的仿真视频以及真实环境中人类、单机械臂和双机械臂的跨智能体异构操纵视频，在跨智能体学习领域中具有重要的研究前景。此外，本成果提出了一种自适应的策略条件化技术，能够更有效地利用预测轨迹对机器人策略进行引导，从而显著提升下游机器人策略执行的性能。
@@ -51,7 +59,7 @@ sections:
 
         Jiange Yang, Haoyi Zhu, Yating Wang, Gangshan Wu, Tong He, Limin Wang, <a href="https://arxiv.org/abs/2411.14519" target="_blank">Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning</a>, in CVPR 2025.
 
-        ### 代表性成果3：可泛化的分层规划与执行框架与系统
+        ### 代表性成果4：可泛化的分层规划与执行框架与系统
 
         ![TPM](./tpm.png)
 
