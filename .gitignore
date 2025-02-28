@@ -1,4 +1,5 @@
 # Build Outputs
+.DS_Store
 _vendor/
 public/
 resources/
