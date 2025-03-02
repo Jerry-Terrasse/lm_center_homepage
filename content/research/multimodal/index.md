@@ -68,7 +68,7 @@ sections:
 
         - Xiangyu Zeng, Kunchang Li, Chenting Wang, Xinhao Li, Tianxiang Jiang, Ziang Yan, Songze Li, Yansong Shi, Zhengrong Yue, Yi Wang, Yali Wang, Yu Qiao, Limin Wang, <a href="https://arxiv.org/pdf/2410.19702" target="_blank">TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning</a>, in ICLR 2025
 
-        - Xinhao Li, Yi Wang, Jiashuo Yu, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang, <a href="https://arxiv.org/pdf/2501.00574" target="_blank">VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling</a>, arXiv: :2501.00574
+        - Xinhao Li, Yi Wang, Jiashuo Yu, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang, <a href="https://arxiv.org/pdf/2501.00574" target="_blank">VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling</a>, arXiv:2501.00574
 
         ### 代表性成果4：书生视频大模型-InternVideo系列
 
@@ -84,6 +84,7 @@ sections:
 
         - Yi Wang, Xinhao Li, Ziang Yan, Yinan He, Jiashuo Yu, Xiangyu Zeng, Chenting Wang, Changlian Ma, Haian Huang, Jianfei Gao, Min Dou, Kai Chen, Wenhai Wang, Yu Qiao, Yali Wang, Limin Wang, <a href="https://arxiv.org/pdf/2501.12386" target="_blank">InternVideo2. 5: Empowering Video MLLMs with Long and Rich Context Modeling</a>, arXiv: 2501.12386  
 
+        - Zhenpeng Huang, Xinhao Li, Jiaqi Li, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang, <a href="https://arxiv.org/abs/2501.00584" target="_blank">Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method</a>, in CVPR 2025.
 ---
 
 多模态大模型研究小组致力于推动多模态大模型的研究与应用，探索多模态信息融合、交互与推理等关键技术，推动多模态大模型在视觉、语音、文本等多模态数据上的应用，为多模态智能技术的发展提供技术支撑。
