@@ -68,6 +68,8 @@ sections:
 
         - Xinhao Li, Yi Wang, Jiashuo Yu, Xiangyu Zeng, Yuhan Zhu, Haian Huang, Jianfei Gao, Kunchang Li, Yinan He, Chenting Wang, Yu Qiao, Yali Wang, Limin Wang, <a href="https://arxiv.org/pdf/2501.00574" target="_blank">VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling</a>, arXiv:2501.00574
 
+        - Zhenpeng Huang, Xinhao Li, Jiaqi Li, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang, <a href="https://arxiv.org/abs/2501.00584" target="_blank">Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method</a>, in CVPR 2025.
+
         ### Representative Achievement 4: Shusheng Video Large Model - InternVideo Series
 
         ![InternVideo](./internvideo.png)
@@ -81,8 +83,6 @@ sections:
         - Yi Wang, Kunchang Li, Xinhao Li, Jiashuo Yu, Yinan He, Guo Chen, Baoqi Pei, Rongkun Zheng, Jilan Xu, Zun Wang, Yansong Shi, Tianxiang Jiang, Songze Li, Hongjie Zhang, Yifei Huang, Yu Qiao, Yali Wang, Limin Wang, <a href="https://arxiv.org/pdf/2403.15377" target="_blank">InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding</a>, in ECCV 2024.
 
         - Yi Wang, Xinhao Li, Ziang Yan, Yinan He, Jiashuo Yu, Xiangyu Zeng, Chenting Wang, Changlian Ma, Haian Huang, Jianfei Gao, Min Dou, Kai Chen, Wenhai Wang, Yu Qiao, Yali Wang, Limin Wang, <a href="https://arxiv.org/pdf/2501.12386" target="_blank">InternVideo2. 5: Empowering Video MLLMs with Long and Rich Context Modeling</a>, arXiv:2501.12386  
-
-        - Zhenpeng Huang, Xinhao Li, Jiaqi Li, Jing Wang, Xiangyu Zeng, Cheng Liang, Tao Wu, Xi Chen, Liang Li, Limin Wang, <a href="https://arxiv.org/abs/2501.00584" target="_blank">Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method</a>, in CVPR 2025.
 ---
 
 Multimodal Large Model Research Group is committed to promoting the research and application of multimodal large models, exploring key technologies in multimodal information fusion, interaction, and reasoning, and driving the application of multimodal large models in visual, speech, text, and other multimodal data, thereby providing technical support for the development of multimodal intelligent technologies.
