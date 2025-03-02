@@ -19,7 +19,7 @@ sections:
     id: research-groups
     content:
       title: Research Groups
-      text: The main research directions include system architectures for large models, such as chips, networks, and computing; high-efficiency machine learning algorithms for large models; knowledge-enhanced learning algorithms for large models; as well as vision large models, language large models, multimodal large models, scientific large models, embodied large models, and intelligent agent systems.
+      text: The Large Model Center conducts innovative research on large model system architectures, learning algorithms, and domain applications, providing core technologies for Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI). The main research directions include scalable system architectures for large models, high-performance machine learning algorithms and platforms for large models, large model knowledge-enhanced learning algorithms, as well as language large models, multimodal large models, scientific large models, embodied decision-making large models, and intelligent agent systems.
       filters:
         folders:
           - research
