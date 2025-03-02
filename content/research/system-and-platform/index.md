@@ -1,5 +1,5 @@
 ---
-title: 大模型机器学习算法与平台小组
+title: 大模型机器学习与平台研究小组
 date: 1010-01-01 # to control the display order
 # author: test
 type: landing
@@ -13,7 +13,7 @@ sections:
     content:
       # title:
       text: |
-        ## 大模型机器学习算法与平台小组
+        ## 大模型机器学习与平台研究小组
   - block: collection
     id: members
     content:
@@ -41,9 +41,9 @@ sections:
 
         - Hao Lin, Ke Wu, Jie Li, Jun Li, Wu-Jun Li. <a href="https://arxiv.org/abs/2307.16375" target="_blank">UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming</a>. CVPR 2025.
         - Shen-Yi Zhao, Chang-Wei Shi, Yin-Peng Xie, Wu-Jun Li. <a href="https://arxiv.org/abs/2007.13985" target="_blank">Stochastic Normalized Gradient Descent with Momentum for Large-Batch Training</a>. SCIENCE CHINA Information Sciences (SCIS), 2024.
-        - Chang-Wei Shi, Yi-Rui Yang, Wu-Jun Li. <a href="https://arxiv.org/abs/2407.19234" target="_blank">Ordered Momentum for Asynchronous SGD</a>. Advances in Neural Information Processing Systems (NeurIPS), 2024.
-        - Yi-Rui Yang, Chang-Wei Shi, Wu-Jun Li. <a href="https://openreview.net/forum?id=wriKDQqiOQ" target="_blank">On the Effect of Batch Size in Byzantine-Robust Distributed Learning</a>. The Twelfth International Conference on Learning Representations (ICLR), 2024.
-        - Chang-Wei Shi, Shen-Yi Zhao, Yin-Peng Xie, Hao Gao, Wu-Jun Li. Global Momentum Compression for Sparse Communication in Distributed SGD. arXiv 2024.
+        - Chang-Wei Shi, Yi-Rui Yang, Wu-Jun Li. <a href="https://cs.nju.edu.cn/lwj/paper/NeurIPS24_OrMo.pdf" target="_blank">Ordered Momentum for Asynchronous SGD</a>. Advances in Neural Information Processing Systems (NeurIPS), 2024.
+        - Yi-Rui Yang, Chang-Wei Shi, Wu-Jun Li. <a href="https://cs.nju.edu.cn/lwj/paper/ICLR24_ByzSGDnm.pdf" target="_blank">On the Effect of Batch Size in Byzantine-Robust Distributed Learning</a>. The Twelfth International Conference on Learning Representations (ICLR), 2024.
+        - Chang-Wei Shi, Shen-Yi Zhao, Yin-Peng Xie, Hao Gao, Wu-Jun Li. <a href="https://arxiv.org/abs/1905.12948" target="_blank">Global Momentum Compression for Sparse Communication in Distributed SGD</a>. arXiv 2024.
 
         ### 代表性成果2：基于持续学习的高效能训练算法
         ![InfLoRA](./inflora.png)
@@ -52,7 +52,7 @@ sections:
 
         **相关论文：**
 
-        - Yan-Shuo Liang, Wu-Jun Li, <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Liang_InfLoRA_Interference-Free_Low-Rank_Adaptation_for_Continual_Learning_CVPR_2024_paper.html" target="_blank">InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning</a>, in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024.
+        - Yan-Shuo Liang, Wu-Jun Li, <a href="https://cs.nju.edu.cn/lwj/paper/CVPR24_InfLoRA.pdf" target="_blank">InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning</a>, in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024.
 
         ### 代表性成果3：高效能推理算法与平台
         ![PIPO Arch](./pipo_arch.png)
@@ -65,11 +65,7 @@ sections:
         **相关论文：**
 
         - Wen-Pu Cai, Ming-Yang Li, Wu-Jun Li, <a href="https://arxiv.org/abs/2405.20973" target="_blank">LCQ: Low-Rank Codebook based Quantization for Large Language Models</a>, in arXiv 2024.
-          <div class="flex flex-wrap space-x-3">
-            <a><img src="/images/links.svg" class="inline-block" style="height: 1.25em"></a>
-            <a href="https://github.com/liangyanshuo/InfLoRA" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
-          </div>
         - Yangyijian Liu, Jun Li, Wu-Jun Li, <a href="placeholder" target="_blank">PIPO: Pipelined Offloading for Efficient Inference on Consumer Devices</a>, Submitted, 2025.
 ---
 
-大模型机器学习算法与平台小组围绕基于大模型的系统构建、规模化训练/推理部署以及大模型应用开展研究，为大模型的高效训练、部署、以及领域知识融入等关键挑战开展研究；在大模型应用方面重点关注如自动定理证明(Automated Theorem Proving, ATP)等重推理(reasoning)任务的研究，有着深厚的积累。在本科教育方面，开设大模型开发课程，培养学生“从零到一手搓大模型”的能力。
+大模型机器学习与平台研究小组致力于探索高效能训练和推理机器学习算法，并构建相应的平台与系统，支撑大模型的高准确率、低成本训练和部署。
