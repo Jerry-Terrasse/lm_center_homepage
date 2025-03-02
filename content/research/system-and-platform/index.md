@@ -1,5 +1,5 @@
 ---
-title: 大模型机器学习与平台研究小组
+title: 大模型机器学习算法与平台研究小组
 date: 1010-01-01 # to control the display order
 # author: test
 type: landing
@@ -13,7 +13,7 @@ sections:
     content:
       # title:
       text: |
-        ## 大模型机器学习与平台研究小组
+        ## 大模型机器学习算法与平台研究小组
   - block: collection
     id: members
     content:
@@ -68,4 +68,4 @@ sections:
         - Yangyijian Liu, Jun Li, Wu-Jun Li, <a href="placeholder" target="_blank">PIPO: Pipelined Offloading for Efficient Inference on Consumer Devices</a>, Submitted, 2025.
 ---
 
-大模型机器学习与平台研究小组致力于探索高效能训练和推理机器学习算法，并构建相应的平台与系统，支撑大模型的高准确率、低成本训练和部署。
+大模型机器学习算法与平台研究小组致力于探索高效能训练和推理机器学习算法，并构建相应的平台与系统，支撑大模型的高准确率、低成本训练和部署。
