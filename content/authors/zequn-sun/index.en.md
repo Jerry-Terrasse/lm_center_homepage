@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Zequn Sun
-tags: [ke, ke_prof]
+tags: [kg, kg_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -18,14 +18,14 @@ role: <a href="https://www.nju.edu.cn">Nanjing University&nbsp;&nbsp;School of C
 
 # Organizations/Affiliations to display in Biography box
 organizations:
-  - name: The Knowledge Mining Team
+  - name: Knowledge Graph @ Websoft
     url: http://ws2.nju.edu.cn/kgwiki/doku.php?id=en:start
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jingweix@nju.edu.cn'
+    url: 'mailto:sunzq@nju.edu.cn'
     label: E-mail Me
   - icon: custom/dblp
     url: https://dblp.org/pid/186/9718.html

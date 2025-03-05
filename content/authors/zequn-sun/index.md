@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 孙泽群
-tags: [ke, ke_prof]
+tags: [kg, kg_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 

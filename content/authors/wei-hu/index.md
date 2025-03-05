@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 胡伟
-tags: [ke, ke_prof]
+tags: [kg, kg_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -18,7 +18,7 @@ role: <a href='https://www.nju.edu.cn'>南京大学&nbsp;&nbsp;计算机学院</
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 知识融合小组 @ 万维网软件研究组
+  - name: 知识图谱小组 @ 万维网软件研究组
     url: http://ws2.nju.edu.cn/kgwiki/doku.php?id=start
 
 # Social network links
