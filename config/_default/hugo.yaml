@@ -54,4 +54,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-uglyURLs: true
+uglyURLs: false

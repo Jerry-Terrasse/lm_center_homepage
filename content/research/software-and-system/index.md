@@ -43,8 +43,8 @@ sections:
          <div>
             Jingwei Xu, Junyu Lai, Yunpeng Huang, <a href="https://arxiv.org/abs/2405.13053">MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models</a>, in ICLR 2025.
             <div class="flex flex-wrap space-x-3">
-               <a><img src="/images/links.svg" class="inline-block" style="height: 1.25em"></a>
-               <a href="https://github.com/NJUDeepEngine/meteora" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+               <a><img src="/lm/images/links.svg" class="inline-block" style="height: 1.25em"></a>
+               <a href="https://github.com/NJUDeepEngine/meteora" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
             </div>
          </div>
          <br>
@@ -60,8 +60,8 @@ sections:
          <div>
             Junyu Lai and Jiahe Xu and Yao Yang and Yunpeng Huang and Chun Cao and Jingwei Xu, <a href="https://arxiv.org/abs/2410.07896">Executing Arithmetic: Fine-Tuning Large Language Models as Turing Machines</a>, arXiv: 2410.07896
             <div class="flex flex-wrap space-x-3">
-               <a><img src="/images/links.svg" class="inline-block" style="height: 1.25em"></a>
-               <a href="https://github.com/NJUDeepEngine/CAEF" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+               <a><img src="/lm/images/links.svg" class="inline-block" style="height: 1.25em"></a>
+               <a href="https://github.com/NJUDeepEngine/CAEF" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
             </div>
          </div>
          <br>
@@ -73,10 +73,10 @@ sections:
          本课程为南京大学计算机学院本科选修课，于2024年秋季学期首次开课，讲师为徐经纬，助教为黄云鹏和狄农雨。该课程以Transformer-based Causal LM为学习对象，基于PyTorch和Huggingface的Transformers框架从零开始构建可加载开源LlaMA模型的代码项目。在此课程中，将了解大语言模型最新的实现细节，如RoPE、RMSNorm及其变体、Sparse-MoE、各类Attention实现(包括FlashAttention系列)以及Megatron并行框架中Tensor Parallelism、Pipeline Parallelism、Context Parallelism和Sequence Parallelism的核心思路。
 
          <div class="flex flex-wrap space-x-3">
-            <a><img src="/images/links.svg" class="inline-block" style="height: 1.25em"></a>
-            <a href="https://paragonlight.github.io/llm-course/" target="_blank"><img src="/images/powerpoint.svg" class="inline-block" style="height: 1.7em"></img></a>
-            <a href="https://www.bilibili.com/video/BV1GiHpePEx4/" target="_blank"><img src="/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://github.com/Strivin0311/llms-learning/tree/main/tutorial/assignment" target="_blank"><img src="/images/assignment.svg" class="inline-block" style="height: 1.7em"></img></a>
+            <a><img src="/lm/images/links.svg" class="inline-block" style="height: 1.25em"></a>
+            <a href="https://paragonlight.github.io/llm-course/" target="_blank"><img src="/lm/images/powerpoint.svg" class="inline-block" style="height: 1.7em"></img></a>
+            <a href="https://www.bilibili.com/video/BV1GiHpePEx4/" target="_blank"><img src="/lm/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://github.com/Strivin0311/llms-learning/tree/main/tutorial/assignment" target="_blank"><img src="/lm/images/assignment.svg" class="inline-block" style="height: 1.7em"></img></a>
          </div>
 ---
 

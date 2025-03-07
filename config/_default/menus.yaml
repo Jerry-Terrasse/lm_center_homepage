@@ -3,16 +3,16 @@ main:
     url: /
     weight: 10
   - name: 新闻
-    url: /post
+    url: /post/
     weight: 11
   - name: 研究小组
-    url: /research
+    url: /research/
     weight: 12
   # - name: 活动
   #   url: /event
   #   weight: 13
   - name: 出版物
-    url: publication/
+    url: /publication/
     weight: 20
   # - name: 项目
   #   url: projects/

@@ -64,8 +64,8 @@ sections:
 
         - Wen-Pu Cai, Ming-Yang Li, Wu-Jun Li, <a href="https://arxiv.org/abs/2405.20973" target="_blank">LCQ: Low-Rank Codebook based Quantization for Large Language Models</a>, arXiv 2024.
           <div class="flex flex-wrap space-x-3">
-            <a><img src="/images/links.svg" class="inline-block" style="height: 1.25em"></a>
-            <a href="https://github.com/liangyanshuo/InfLoRA" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a><img src="/lm/images/links.svg" class="inline-block" style="height: 1.25em"></a>
+            <a href="https://github.com/liangyanshuo/InfLoRA" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
           </div>
         - Yangyijian Liu, Jun Li, Wu-Jun Li, <a href="placeholder" target="_blank">PIPO: Pipelined Offloading for Efficient Inference on Consumer Devices</a>, Submitted, 2025.
 ---

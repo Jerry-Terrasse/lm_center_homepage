@@ -39,9 +39,9 @@ sections:
           Jiahuan Li, Yiqing Cao, Shujian Huang*, Jiajun Chen. <a href="https://aclanthology.org/2024.emnlp-main.304v3.pdf">Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge</a>. EMNLP2024.
 
           <div class="flex flex-wrap space-x-3">
-            <a href="https://www.bilibili.com/video/BV1khSKYSEKT" target="_blank"><img src="/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://github.com/CaoYiqingT/Formality-is-Favored" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://mp.weixin.qq.com/s/-T_J_QgqGZAPjcTRA938iA?token=36930520&lang=zh_CN" target="_blank"><img src="/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
+            <a href="https://www.bilibili.com/video/BV1khSKYSEKT" target="_blank"><img src="/lm/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://github.com/CaoYiqingT/Formality-is-Favored" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://mp.weixin.qq.com/s/-T_J_QgqGZAPjcTRA938iA?token=36930520&lang=zh_CN" target="_blank"><img src="/lm/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
           </div>
         </div>
 
@@ -57,9 +57,9 @@ sections:
           Wenhao Zhu, Hongyi Liu, Qingxiu Dong, Jingjing Xu, Shujian Huang*, Lingpeng Kong, Jiajun Chen, Lei Li. <a href="https://aclanthology.org/2024.findings-naacl.176.pdf"> Multilingual Machine Translation with Large Language Models: Empirical Results and Analysis. </a> Findings of NAACL 2024.
 
           <div class="flex flex-wrap space-x-3">
-            <a href="https://www.bilibili.com/video/BV16h411j7nW" target="_blank"><img src="/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://github.com/NJUNLP/MMT-LLM" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://mp.weixin.qq.com/s/AR5Yo14AzeVQuAgPwBsgrg?token=36930520&lang=zh_CN" target="_blank"><img src="/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
+            <a href="https://www.bilibili.com/video/BV16h411j7nW" target="_blank"><img src="/lm/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://github.com/NJUNLP/MMT-LLM" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://mp.weixin.qq.com/s/AR5Yo14AzeVQuAgPwBsgrg?token=36930520&lang=zh_CN" target="_blank"><img src="/lm/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
           </div>
         </div>
         
@@ -67,7 +67,7 @@ sections:
           Jiahuan Li, Hao Zhou, Shujian Huang*, Shanbo Cheng, Jiajun Chen. <a href="https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00655/2367429/tacl_a_00655.pdf"> Eliciting the Translation Ability of Large Language Models via Multilingual Finetuning with Translation Instructions. </a> TACL 2024.
 
           <div class="flex flex-wrap space-x-3">
-            <a href="https://github.com/NJUNLP/MFTI" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://github.com/NJUNLP/MFTI" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
           </div>
         </div>
 
@@ -84,9 +84,9 @@ sections:
           Wenhao Zhu, Shujian Huang*, Fei Yuan, Shuaijie She, Jiajun Chen, Alexandra Birch. <a href="https://aclanthology.org/2024.findings-acl.498.pdf"> Question Translation Training for Better Multilingual Reasoning. </a> Findings of ACL 2024.
 
           <div class="flex flex-wrap space-x-3">
-            <a href="https://www.bilibili.com/video/BV12E421w72W" target="_blank"><img src="/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://github.com/NJUNLP/QAlign" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://mp.weixin.qq.com/s/Z7qrtkpfyeDmbj0WKeBo_A?token=36930520&lang=zh_CN" target="_blank"><img src="/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
+            <a href="https://www.bilibili.com/video/BV12E421w72W" target="_blank"><img src="/lm/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://github.com/NJUNLP/QAlign" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://mp.weixin.qq.com/s/Z7qrtkpfyeDmbj0WKeBo_A?token=36930520&lang=zh_CN" target="_blank"><img src="/lm/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
           </div>
         </div>
         
@@ -94,8 +94,8 @@ sections:
           Shuaijie She, Wei Zou, Shujian Huang*, Wenhao Zhu, Xiang Liu, Xiang Geng, Jiajun Chen. <a href="https://aclanthology.org/2024.acl-long.539.pdf"> MAPO: Advancing Multilingual Reasoning through Multilingual Alignment-as-Preference Optimization. </a> ACL 2024.
 
           <div class="flex flex-wrap space-x-3">
-            <a href="https://www.bilibili.com/video/BV1j7421Z77h" target="_blank"><img src="/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://github.com/NJUNLP/MAPO" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://www.bilibili.com/video/BV1j7421Z77h" target="_blank"><img src="/lm/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://github.com/NJUNLP/MAPO" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
           </div>
         </div>
 
@@ -111,7 +111,7 @@ sections:
         <div>
           Changjiang Gao, Hongda Hu, Peng Hu, Jiajun Chen, Jixing Li, Shujian Huang*. <a href="https://aclanthology.org/2024.naacl-long.339.pdf">Multilingual Pretraining and Instruction Tuning Improve Cross-Lingual Knowledge Alignment, But Only Shallowly.</a> NAACL2024.
           <div class="flex flex-wrap space-x-3">
-            <a href="https://github.com/RiverGao/CLiKA" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://github.com/RiverGao/CLiKA" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
           </div>
         </div>
         <br>
@@ -119,8 +119,8 @@ sections:
         <div>
           Peng Hu, Sizhe Liu, Changjiang Gao, Xin Huang, Xue Han, Junlan Feng, Chao Deng, Shujian Huang*. <a href="https://arxiv.org/pdf/2406.16655">Large Language Models Are Cross-Lingual Knowledge-Free Reasoners.</a> NAACL 2025.
           <div class="flex flex-wrap space-x-3">
-            <a href="https://github.com/NJUNLP/Knowledge-Free-Reasoning" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://mp.weixin.qq.com/s?src=11&timestamp=1739071318&ver=5801&signature=VDex2DZdFia0F1gYOIEgTa8GVLBDWBbvxJxnE0NC2QNud3d8EI-g0ow10-DLlo8VOQYIjgfnVKdFLk318bLZ1erqgQl*MwZMsQi3xpj3F5qUGzIoLzNHphfx80b144T2&new=1" target="_blank"><img src="/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
+            <a href="https://github.com/NJUNLP/Knowledge-Free-Reasoning" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://mp.weixin.qq.com/s?src=11&timestamp=1739071318&ver=5801&signature=VDex2DZdFia0F1gYOIEgTa8GVLBDWBbvxJxnE0NC2QNud3d8EI-g0ow10-DLlo8VOQYIjgfnVKdFLk318bLZ1erqgQl*MwZMsQi3xpj3F5qUGzIoLzNHphfx80b144T2&new=1" target="_blank"><img src="/lm/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
           </div>
         </div>
 
@@ -140,9 +140,9 @@ sections:
         <div>
           Jiahuan Li, Shujian Huang*, Xinyu Dai, Jiajun Chen. <a href="https://aclanthology.org/2024.emnlp-main.572v3.pdf">PreAlign: Boosting Cross-Lingual Transfer by Early Establishment of Multilingual Alignment.</a> EMNLP2024.
           <div class="flex flex-wrap space-x-3">
-            <a href="https://www.bilibili.com/video/BV1khSKYSEKT" target="_blank"><img src="/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://github.com/NJUNLP/PreAlign" target="_blank"><img src="/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
-            <a href="https://mp.weixin.qq.com/s/G72c4N02s8r2u3vpWI5BvQ?token=36930520&lang=zh_CN" target="_blank"><img src="/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
+            <a href="https://www.bilibili.com/video/BV1khSKYSEKT" target="_blank"><img src="/lm/images/bilibili.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://github.com/NJUNLP/PreAlign" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
+            <a href="https://mp.weixin.qq.com/s/G72c4N02s8r2u3vpWI5BvQ?token=36930520&lang=zh_CN" target="_blank"><img src="/lm/images/wechat.svg" class="inline-block" style="height: 1.6em"></img></a>
           </div>
         </div>
 ---
