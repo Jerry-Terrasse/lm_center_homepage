@@ -3,16 +3,16 @@ main:
     url: /
     weight: 10
   - name: News
-    url: /post
+    url: /post/
     weight: 11
   - name: Research
-    url: /research
+    url: /research/
     weight: 12
   # - name: Event
   #   url: /event
   #   weight: 13
   - name: Publication
-    url: publication/
+    url: /publication/
     weight: 20
   # - name: Project
   #   url: projects/
