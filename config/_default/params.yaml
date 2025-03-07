@@ -34,7 +34,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    show_translations: false
+    show_translations: true
     logo:
       text: "大模型研究协同创新中心"
       filename: "icons/nju-emblem-cs.png"

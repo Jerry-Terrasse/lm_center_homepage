@@ -45,3 +45,7 @@ p.powered-by:last-child {
 .navbar-brand img, .navbar-brand svg {
   width: revert-layer;
 }
+
+#language-chooser-container ul {
+  display: none;
+}
