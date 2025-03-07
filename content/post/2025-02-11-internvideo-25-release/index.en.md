@@ -8,7 +8,7 @@ authors:
   - Ted
 
 tags:
-  - 论坛与会议
+  - conference
 
 image:
   filename: image.png

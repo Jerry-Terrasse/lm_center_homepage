@@ -8,7 +8,7 @@ authors:
   - Ted
 
 tags:
-  - 学术进展
+  - academia_news
 
 image:
   filename: shlab.jpg
