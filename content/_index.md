@@ -25,7 +25,7 @@ sections:
         text: "中国科学院学部“大模型/AIGC的健康发展与赋能赋智”科学与技术前沿论坛在南京召开"
         link:
           text: "更多"
-          url: "/lm/post/2024-01-16-healthy-development-and-empowerment-of-large-models-aigc"
+          url: "/lm/post/2024-01-16-healthy-development-and-empowerment-of-large-models-aigc/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
