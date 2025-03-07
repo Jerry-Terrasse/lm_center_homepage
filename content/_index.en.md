@@ -16,11 +16,11 @@ sections:
       secondary_text: The Large Model Center conducts innovative research on large model system architectures, learning algorithms, and domain applications, providing core technologies for Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI). The main research directions include scalable system architectures for large models, high-performance machine learning algorithms and platforms for large models, large model knowledge-enhanced learning algorithms, as well as language large models, multimodal large models, scientific large models, embodied decision-making large models, and intelligent agent systems.
       primary_action:
         text: Join Us
-        url: /research
+        url: /lm/research/
         icon: user-group
       secondary_action:
         text: Publications
-        url: /publication
+        url: /lm/publication/
       announcement:
         text: "5 papers are accepted by CVPR 2025."
         link:

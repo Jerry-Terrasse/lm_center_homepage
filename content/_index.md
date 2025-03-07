@@ -16,11 +16,11 @@ sections:
       secondary_text: 大模型中心开展大模型系统架构、学习算法和领域应用的创新研究，为通用人工智能（AGI）和超级人工智能（ASI）提供核心技术。主要研究方向包括：面向大模型的可扩展系统架构、面向大模型的高效能机器学习算法与平台、大模型知识增强学习算法以及语言大模型、多模态大模型、科学大模型、具身决策大模型和智能体系统。
       primary_action:
         text: 了解更多
-        url: /lm/research
+        url: /lm/research/
         icon: ellipsis-horizontal-circle
       secondary_action:
         text: 我们的文章
-        url: /lm/publication
+        url: /lm/publication/
       announcement:
         text: "中国科学院学部“大模型/AIGC的健康发展与赋能赋智”科学与技术前沿论坛在南京召开"
         link:
