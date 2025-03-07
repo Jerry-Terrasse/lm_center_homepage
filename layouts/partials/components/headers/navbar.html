@@ -11,13 +11,14 @@
             {{ if eq $logoExt `.svg` }}
               {{- $logo.Content | safeHTML -}}
             {{else}}
-              {{ $logo_img := ($logo.Process "Resize x36 webp") }}
+              {{ $logo_img := ($logo.Process "Resize x128") }}
+              {{ $logo_width := "36" }}
               <img
                 fetchpriority="high"
                 decoding="async"
                 class=""
-                width="{{ $logo_img.Width }}"
-                height="{{ $logo_img.Height }}"
+                width="{{ $logo_width }}"
+                height="{{ $logo_width }}"
                 src="{{ $logo_img.RelPermalink }}"
                 alt="{{ site.Title }}" />
             {{end}}

@@ -41,3 +41,7 @@ ol.pagefind-ui__results {
 p.powered-by:last-child {
   display: none;
 }
+
+.navbar-brand img, .navbar-brand svg {
+  width: revert-layer;
+}
