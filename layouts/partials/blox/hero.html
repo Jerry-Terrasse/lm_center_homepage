@@ -28,7 +28,7 @@
         {{ $scheme := (urls.Parse $link).Scheme }}
         {{ $target := "" }}
         {{ if not $scheme }}
-          {{ $link = $link | relLangURL }}
+          {{ $link = $link }}
         {{ else if in (slice "http" "https") $scheme }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
@@ -46,7 +46,7 @@
           {{ $scheme_alt := (urls.Parse $link_alt).Scheme }}
           {{ $target_alt := "" }}
           {{ if not $scheme_alt }}
-            {{ $link_alt = $link_alt | relLangURL }}
+            {{ $link_alt = $link_alt }}
           {{ else if in (slice "http" "https") $scheme_alt }}
             {{ $target_alt = "target=\"_blank\" rel=\"noopener\"" }}
           {{ end }}
