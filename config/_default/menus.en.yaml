@@ -1,18 +1,18 @@
 main:
   - name: Home
-    url: /
+    url: /en/
     weight: 10
   - name: News
-    url: /post/
+    url: /en/post/
     weight: 11
   - name: Research
-    url: /research/
+    url: /en/research/
     weight: 12
   # - name: Event
   #   url: /event
   #   weight: 13
   - name: Publication
-    url: /publication/
+    url: /en/publication/
     weight: 20
   # - name: Project
   #   url: projects/

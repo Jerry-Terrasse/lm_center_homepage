@@ -96,31 +96,31 @@
               {{ .Name }}
             </a>
           </li>
-          {{ end }}
+          {{ end }} <!-- range .Children -->
         </ul>
       </li>
-      {{ else }}
-      {{ $url := "" }}
-      {{- if findRE `^#` .URL -}}
-        {{- if not $.IsHome -}}
-          {{- $url = site.Home.RelPermalink -}}
-        {{- end }}
-        {{- $url = .URL -}}
+      {{ else }} <!-- if .HasChildren -->
+        {{ $url := "" }}
+        {{- if findRE `^#` .URL -}}
+          {{- if not $.IsHome -}}
+            {{- $url = site.Home.RelPermalink -}}
+          {{- end }}
+          {{- $url = .URL -}}
         {{- else -}}
-        {{- $url = .URL | relLangURL -}}
-      {{- end -}}
-      <li class="nav-item">
-        <a
-          class="nav-link {{ if $active }}active{{- end -}}"
-          {{ if findRE `^http` .URL }}
-          target="_blank" rel="noopener"
-          {{ end }}
-          href="{{$url}}"
-        >{{ .Name }}</a
-        >
-      </li>
-      {{ end }}
-      {{ end }}
+          {{- $url = .URL -}} <!-- remove relLangURL and handle it in manus.yaml -->
+        {{- end -}}
+        <li class="nav-item">
+          <a
+            class="nav-link {{ if $active }}active{{- end -}}"
+            {{ if findRE `^http` .URL }}
+            target="_blank" rel="noopener"
+            {{ end }}
+            href="{{$url}}"
+          >{{ .Name }}</a
+          >
+        </li>
+      {{ end }} <!-- if .HasChildren -->
+      {{ end }} <!-- range site.Menus.main -->
       {{ if site.Params.header.navbar.button.enable }}
       <li class="mt-4 inline-block lg:hidden">
         <a
