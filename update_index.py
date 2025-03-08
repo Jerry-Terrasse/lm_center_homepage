@@ -3,6 +3,7 @@ import glob
 import re
 
 PATTERN_LIST = [
+    (re.compile(r"/en/\""), "/en/index.html\""),
     (re.compile(r"/research/\""), "/research/index.html\""),
     (re.compile(r"/post/\""), "/post/index.html\""),
     (re.compile(r"/publication/\""), "/publication/index.html\""),
