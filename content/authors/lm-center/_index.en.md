@@ -188,4 +188,4 @@ awards:
 
 ## 简介
 
-南京大学计算机学院大模型研究中心开展大模型系统架构、学习算法和领域应用的创新研究，为通用人工智能（AGI）和超级智能（Super Intelligence）提供核心技术。主要研究方向包括面向大模型的芯片、网络、计算等系统架构、面向大模型的高效能机器学习算法、大模型知识增强学习算法以及视觉大模型、语言大模型、多模态大模型、科学大模型、具身大模型和智能体系统。
+The Large Model Center conducts innovative research on large model system architectures, learning algorithms, and domain applications, providing core technologies for the next generation of artificial intelligence. The main research directions include scalable system architectures for large models, high-performance machine learning algorithms and platforms for large models, large model knowledge-enhanced learning algorithms, as well as language large models, multimodal large models, scientific large models, embodied decision-making large models, intelligent agent systems, and neural-symbolic reasoning systems.
