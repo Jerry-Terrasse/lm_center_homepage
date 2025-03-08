@@ -1,29 +1,56 @@
 ---
-title: 中国科学院学部“大模型/AIGC的健康发展与赋能赋智”科学与技术前沿论坛在南京召开
-summary: 2024年1月，中国科学院学部在南京举办第155次前沿论坛，聚焦“大模型/AIGC的健康发展与赋能赋智”，汇聚近300位专家，探讨技术前沿、应用创新及安全治理，推动AI技术赋能产业与社会发展。
-date: 2024-01-16
+title: "Shusheng InternVideo2.5 Open-Sourced, Precisely Finding the 'Needle in a Haystack' in Tens of Thousands of Frames, with Fine-Grained Spatiotemporal Perception"
+summary: "Recently, the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab), in collaboration with Nanjing University and the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences, jointly open-sourced the video multi-modal model Shusheng InternVideo2.5."
+date: 2025-02-11
 
 authors:
   - admin
   - Ted
 
 tags:
-  - conference
+  - academia_news
 
 image:
   filename: shlab.jpg
 ---
 
+> Recently, the Shanghai AI Lab, in collaboration with Nanjing University and the Shenzhen Institutes of Advanced Technology, jointly open-sourced the multi-modal video model Shusheng InternVideo2.5.
+> In the field of video understanding, the upgraded InternVideo2.5 has achieved improvements in both temporal span and fine granularity, expanding its capacity sixfold compared to the previous model. It enables a precise "needle in a haystack" search within long videos containing tens of thousands of frames, allowing AI to more accurately interpret the complex real world and infuse new quality into various applications. Previously, the Shusheng InternVideo series was applied during the live broadcast of the Paris Olympics by China Central Television, precisely pinpointing athletes' scoring moments and corresponding slow-motion replays, significantly enhancing TV production efficiency. With enhanced long video processing capabilities, InternVideo2.5 will offer more efficient AI support for applications such as autonomous driving, security surveillance, and virtual reality.
+
+Open source link: <a href="https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5">https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2.5</a>
+<br>Paper link: <a href="https://arxiv.org/abs/2501.12386">https://arxiv.org/abs/2501.12386</a>
+<br>Huggingface link: <a href="https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B">https://huggingface.co/OpenGVLab/InternVideo2_5_Chat_8B</a>
+
+{{< video src="InternVideo2.5_demo.mp4" controls="yes" poster="cover.jpg">}}
+
+### Focus on Fine-Grained Spatiotemporal Understanding and Efficient Long Video Processing
+
+Shanghai AI Lab has continuously invested in video multi-modal large model (Video MLLM) technology since 2022, successively launching and open-sourcing the general video foundation model Shusheng InternVideo, the video understanding large model Shusheng InternVideo2, and the dialogue-centric video understanding paradigm VideoChat. By leveraging its experience in video visual representation learning and multi-modal dialogue, the upgraded InternVideo2.5 focuses on fine spatiotemporal understanding through deep integration of visual perception and language comprehension, achieving breakthroughs in long video understanding.
+
+**InternVideo2.5 Capability Characteristics:**
+
+- Ultra-long video processing: Accurately locate targets within tens of thousands of frames, with processing length extended from 3,000 to 10,000 frames.
+- Fine-grained perception: Accurately identify and locate objects, scenes, and actions while comprehending subtle spatiotemporal relationships.
+- Integration of multiple visual capabilities: Not only supports general video Q&A but also proficiently handles specialized tasks such as object tracking and segmentation.
+
 <div class="img-full-width">
 
-![image](image.png)
+![image](figure.jpg)
 
 </div>
 
-中国科学院学部第155次科学与技术前沿论坛—“大模型／AIGC的健康发展与赋能赋智”于2024年1月6－7日在南京召开。本次论坛由中国科学院学部主办，中国科学院学部学术与出版工作委员会、中国科学院信息技术科学部常务委员会承办，南京大学、东南大学和《中国科学》杂志社协办，中国科学院院士吕建、黄如和中国工程院院士王坚共同担任论坛主席。中国科学院学部学术与出版工作委员会主任包信和院士出席论坛，中国科学院学部工作局周德进、教育部教师工作司任友群、东南大学黄如院士、江苏省科技厅徐光辉出席论坛开幕式并致辞。包信和、吕建、黄如、谭铁牛、鄂维南、徐宗本等6位中国科学院院士，高文、杨善林等2位中国工程院院士，以及来自中国科学院、南京大学、东南大学、香港科技大学、科大讯飞、华为、阿里、小米、美的、吉利汽车研究院等87所高校、科研院所和企业的近300位专家参加了本次论坛，超过半数为45岁以下青年科学家。
+<span style="font-size: 0.8em; line-height: 0.2; color: rgb(136, 136, 136);">Left image: Performance comparison between InternVideo2.5 and other 8-billion-parameter open models on MVBench and VideoMME; Right image: InternVideo2.5 accurately tracks and analyzes videos.</span>
 
-论坛分为主旨报告和专题报告两个环节，在主旨报告环节，谭铁牛院士介绍了生成式人工智能的发展态势，高文院士介绍了鹏城脑海预训练大模型底座与开源合作，杨善林院士介绍了AIGC及其科学基础，鄂维南院士介绍了深度学习的基本原理，徐宗本院士介绍了关于大模型的数理基础研究，英国皇家工程院院士、香港科技大学首席副校长郭毅可教授介绍了大模型的内涵科学问题，科大讯飞、华为、阿里的人工智能专家介绍了大模型的应用与创新实践。在专题报告环节，与会专家围绕“大模型／AIGC的发展前沿与协同创新”“大模型／AIGC助力科技发展”“大模型／AIGC助力实体经济”“大模型／AIGC助力教育变革”“大模型／AIGC与智能化基础软件”“大模型／AIGC与算力基础设施、及芯片技术”“大模型／AIGC安全可控、隐私保护与低成本部署”“大模型／AIGC的治理与管理”等8个专题进行了报告，报告结束后，与会专家学者还围绕专题进行圆桌提问交流。
+### LRC Combined with Progressive Training to Overcome Bottlenecks in Long Video Modeling
+For long videos and fine-grained visual tasks, traditional video multi-modal large models face significant challenges in accurately tracking target objects in ultra-long videos or recognizing subtle spatiotemporal relationships in complex scenes. For example, in "needle in a haystack" tasks, conventional methods require extensive computational resources and deliver unsatisfactory localization accuracy, thereby limiting industrial applications.
+To address this, Shanghai AI Lab, together with its research team, leveraged its self-developed Shusheng InternVL2.5 base model to propose Long-range Context Modeling (LRC) technology as a solution.
 
-经过两天的交流研讨，与会专家就大模型与人工智能发展的关键技术与挑战、应用场景与产业赋能赋智、法律道德风险等进行了前瞻研讨，形成了一些初步共识，论坛结束后将以简报、专报等形式发布论坛成果。
+**The Two Core Modules of Long-range Context Modeling (LRC) Technology:**
 
-<a href="http://ad.cas.cn/xbdt2022/202401/t20240116_5000694.html" target="_blank">查看原文</a>
+- Hierarchical Context Compression (HiCo): Exploits redundancy in long video visual data through layered compression. Experimental results demonstrate that with HiCo, InternVideo2.5 can accurately locate target frames within tens of thousands of frames, leading in performance among open models.
+
+- Task Preference Optimization (TPO): Transforms annotations from various fine-grained visual tasks (such as object tracking, segmentation, and temporal localization) into differentiable task preferences, thereby guiding the model's self-learning to extend its capabilities to specialized visual applications.
+
+Additionally, the team pre-trained InternVideo2.5 using a progressive multi-stage training strategy on over 300,000 hours of video data, ensuring robust video processing capabilities. The training corpus includes vision-language alignment data, long video sequences, and specialized visual task data, providing abundant information for comprehensive model learning. Following the progressive training scheme of Shusheng InternVL, the approach enhances fine-grained perception and temporal understanding in stages: initial basic learning for task recognition and video-language alignment; subsequent integration and training of specific task components alongside visual concept pre-training; and finally, multi-task training combined with instruction fine-tuning on mixed corpora to optimize all model components. This method achieves effective scaling from "small to large" and refinement of data from "coarse to fine", reducing costs while enhancing performance.
+
+<a href="https://mp.weixin.qq.com/s/kId4bxMbbR4kT2Q_HXCpsg" target="_blank">View Original</a>

@@ -1,6 +1,6 @@
 ---
-title: 中国科学院学部“大模型/AIGC的健康发展与赋能赋智”科学与技术前沿论坛在南京召开
-summary: 2024年1月，中国科学院学部在南京举办第155次前沿论坛，聚焦“大模型/AIGC的健康发展与赋能赋智”，汇聚近300位专家，探讨技术前沿、应用创新及安全治理，推动AI技术赋能产业与社会发展。
+title: "The Chinese Academy of Sciences Academicians Forum on the Healthy Development and Empowerment of Large Models/AIGC Held in Nanjing"
+summary: "In January 2024, the Chinese Academy of Sciences Academicians hosted the 155th Frontier Forum in Nanjing. Focusing on the healthy development and empowerment of large models/AIGC, nearly 300 experts discussed cutting-edge technology, application innovation, and security governance, fostering AI empowerment for industry and society."
 date: 2024-01-16
 
 authors:
@@ -20,10 +20,16 @@ image:
 
 </div>
 
-中国科学院学部第155次科学与技术前沿论坛—“大模型／AIGC的健康发展与赋能赋智”于2024年1月6－7日在南京召开。本次论坛由中国科学院学部主办，中国科学院学部学术与出版工作委员会、中国科学院信息技术科学部常务委员会承办，南京大学、东南大学和《中国科学》杂志社协办，中国科学院院士吕建、黄如和中国工程院院士王坚共同担任论坛主席。中国科学院学部学术与出版工作委员会主任包信和院士出席论坛，中国科学院学部工作局周德进、教育部教师工作司任友群、东南大学黄如院士、江苏省科技厅徐光辉出席论坛开幕式并致辞。包信和、吕建、黄如、谭铁牛、鄂维南、徐宗本等6位中国科学院院士，高文、杨善林等2位中国工程院院士，以及来自中国科学院、南京大学、东南大学、香港科技大学、科大讯飞、华为、阿里、小米、美的、吉利汽车研究院等87所高校、科研院所和企业的近300位专家参加了本次论坛，超过半数为45岁以下青年科学家。
+The 155th Frontier Forum of the Chinese Academy of Sciences Academicians — "The Healthy Development and Empowerment of Large Models/AIGC" was held in Nanjing from January 6 to 7, 2024. The forum was organized by the Chinese Academy of Sciences Academicians, hosted by the Academic and Publishing Work Committee and the Standing Committee of the Information Technology Science Department of the Chinese Academy of Sciences, co-organized by Nanjing University, Southeast University, and the publisher "Science in China", with Academicians Lu Jian and Huang Ru, along with Academician Wang Jian from the Chinese Academy of Engineering, jointly serving as forum chairs.
 
-论坛分为主旨报告和专题报告两个环节，在主旨报告环节，谭铁牛院士介绍了生成式人工智能的发展态势，高文院士介绍了鹏城脑海预训练大模型底座与开源合作，杨善林院士介绍了AIGC及其科学基础，鄂维南院士介绍了深度学习的基本原理，徐宗本院士介绍了关于大模型的数理基础研究，英国皇家工程院院士、香港科技大学首席副校长郭毅可教授介绍了大模型的内涵科学问题，科大讯飞、华为、阿里的人工智能专家介绍了大模型的应用与创新实践。在专题报告环节，与会专家围绕“大模型／AIGC的发展前沿与协同创新”“大模型／AIGC助力科技发展”“大模型／AIGC助力实体经济”“大模型／AIGC助力教育变革”“大模型／AIGC与智能化基础软件”“大模型／AIGC与算力基础设施、及芯片技术”“大模型／AIGC安全可控、隐私保护与低成本部署”“大模型／AIGC的治理与管理”等8个专题进行了报告，报告结束后，与会专家学者还围绕专题进行圆桌提问交流。
+Academician Bao Xinhai, Director of the Academic and Publishing Work Committee, attended the forum along with Zhou Dejin from the Work Bureau of the Chinese Academy of Sciences Academicians, Ren Youqun from the Ministry of Education’s Teacher Work Department, Academician Huang Ru from Southeast University, and Xu Guanghui from the Jiangsu Science and Technology Department, who delivered opening remarks.
 
-经过两天的交流研讨，与会专家就大模型与人工智能发展的关键技术与挑战、应用场景与产业赋能赋智、法律道德风险等进行了前瞻研讨，形成了一些初步共识，论坛结束后将以简报、专报等形式发布论坛成果。
+Six academicians from the Chinese Academy of Sciences—including Bao Xinhai, Lu Jian, Huang Ru, Tan Tieniu, E Weinan, and Xu Zongben—two academicians from the Chinese Academy of Engineering, Gao Wen and Yang Shanlin, and nearly 300 experts from 87 universities, research institutes, and companies (including the Chinese Academy of Sciences, Nanjing University, Southeast University, Hong Kong University of Science and Technology, iFlytek, Huawei, Alibaba, Xiaomi, Midea, and Geely Automobile Research Institute) attended the forum, with more than half being young scientists under 45.
 
-<a href="http://ad.cas.cn/xbdt2022/202401/t20240116_5000694.html" target="_blank">查看原文</a>
+The forum comprised two sessions: keynote presentations and special topic reports. In the keynote session, Academician Tan Tieniu discussed trends in generative AI; Academician Gao Wen introduced the Pengcheng Brain pre-trained large model platform and open-source collaborations; Academician Yang Shanlin presented AIGC and its scientific foundations; Academician E Weinan explained the basics of deep learning; Academician Xu Zongben discussed mathematical research on large models; Professor Guo Yike, an Academician of the Royal Academy of Engineering (UK) and Vice-Chancellor of Hong Kong University of Science and Technology, addressed the intrinsic scientific issues of large models; and AI experts from iFlytek, Huawei, and Alibaba showcased applications and innovative practices of large models.
+
+In the special topic session, experts presented reports on eight topics: "Frontier and Collaborative Innovation in the Development of Large Models/AIGC", "Empowering Technological Development with Large Models/AIGC", "Boosting the Real Economy with Large Models/AIGC", "Facilitating Educational Transformation with Large Models/AIGC", "Large Models/AIGC and Intelligent Basic Software", "Large Models/AIGC, Computing Infrastructure, and Chip Technology", "Safety, Controllability, Privacy Protection, and Low-cost Deployment of Large Models/AIGC", and "Governance and Management of Large Models/AIGC". Following the reports, experts engaged in roundtable discussions on these topics.
+
+After two days of discussions, the experts explored key technologies and challenges in the development of large models and AI, application scenarios, industrial empowerment, and legal and ethical risks, reaching some preliminary consensus. The forum outcomes will be released in the form of briefings and special reports.
+
+<a href="http://ad.cas.cn/xbdt2022/202401/t20240116_5000694.html" target="_blank">Read Original Article</a>
