@@ -33,7 +33,7 @@ sections:
         Nanjing University, Shanghai Artificial Intelligence Laboratory, and other institutions have jointly developed a series of video large models and multimodal large models, achieving world-leading performance on visually-centered multimodal understanding tasks. The representative achievements are as follows:
 
         ### Representative Achievement 1: Shusheng Multimodal Large Model - InternVL Series
-        ![InternVL](./internvl.png)
+        ![InternVL](internvl.png)
 
         The rapid growth of large language models (LLMs) has opened up countless possibilities for multimodal AGI systems. However, progress in visual and vision-language foundation models (which are also key components of multimodal AGI) has not kept pace with LLMs. In this work, we designed a large vision-language foundation model (InternVL) that extends the visual foundation model to 6 billion parameters and gradually aligns it with LLMs, using web-scale image-text data from various sources. The model can be widely applied to 32 general vision-language benchmarks and has achieved top performance on these benchmarks, including visual perception tasks (such as image-level or pixel-level recognition), vision-language tasks (such as zero-shot image/video classification, zero-shot image/video text retrieval), and linking with LLMs to create multimodal dialogue systems. It possesses powerful visual capabilities and can serve as an excellent alternative to ViT-22B.
 
@@ -42,7 +42,7 @@ sections:
         Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai, <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf" target="_blank">InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks</a>, in CVPR 2024.
 
         ### Representative Achievement 2: Video Foundation Representation Model - VideoMAE Series
-        ![VideoMAE](./videomae.png)
+        ![VideoMAE](videomae.png)
 
         This work proposes the video masked autoencoder VideoMAE v1 & v2, successfully training the first video Transformer model with 1 billion parameters and breaking through the performance bottleneck of self-supervised video representation learning. The VideoMAE series has been cited over 1500 times and has become a benchmark method in the field of self-supervised video learning. It has been extended by institutions such as Oxford University, Microsoft, Google, Meta, and others, and became the first video Transformer model included by the open-source community Hugging Face, with global downloads exceeding 3.2 million, ranking first in Hugging Face's video recognition model downloads.
 
@@ -54,7 +54,7 @@ sections:
 
         ### Representative Achievement 3: Video Multimodal Large Model - VideoChat Series
 
-        ![VideoChat](./videochat.png)
+        ![VideoChat](videochat.png)
 
         This work presents the world’s first video-centric multimodal dialogue large model, VideoChat, which establishes dialogue-driven general video understanding capabilities and achieves leading performance on important multimodal video understanding datasets. VideoChat-related technologies have been applied in the development of Kuaishou Keling large model, with over 3000 GitHub stars. Recently, the VideoChat-Online and VideoChat-Flash versions have been introduced, further enhancing VideoChat’s comprehensive performance through improved interaction and efficient long-term modeling.
 
@@ -72,7 +72,7 @@ sections:
 
         ### Representative Achievement 4: Shusheng Video Large Model - InternVideo Series
 
-        ![InternVideo](./internvideo.png)
+        ![InternVideo](internvideo.png)
 
         This work presents the world’s first general video understanding large model, InternVideo: In 2022, the video foundation representation version InternVideo 1.0 was released, achieving world-leading performance in key tasks such as video basic perception, video spatiotemporal parsing, and video action recognition; in 2024, the multimodal video understanding version InternVideo 2.0 was released, achieving leading performance on more than 60 video understanding tasks, including recognition retrieval, open-domain question answering, and high-level reasoning; in 2025, the deep video spatiotemporal understanding version InternVideo 2.5 was released, achieving significant performance improvements in video understanding span and granularity, with the model’s “memory” enhanced by 6 times compared to its predecessor.
 

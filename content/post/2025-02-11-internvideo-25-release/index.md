@@ -34,7 +34,12 @@ image:
 - 细粒度感知:  准确识别和定位视频中的物体、场景和动作，理解细微的时空关系。
 - 多项视觉能力融合:  不仅能进行通用视频问答，还能完成目标跟踪、分割等专业视觉任务。
 
-<img src="figure.jpg" width="100%" />
+<div class="img-full-width">
+
+![image](figure.jpg)
+
+</div>
+
 <span style="font-size: 0.8em; line-height: 0.2; color: rgb(136, 136, 136);">左图：InternVideo2.5与其它80亿参数开源模型在MVBench和VideoMME上的评测性能对比；右图：InternVideo2.5可准确对视频进行跟踪分析。</span>
 
 ### LRC结合渐进训练，破解长视频建模技术瓶颈

@@ -47,5 +47,9 @@ p.powered-by:last-child {
 }
 
 #language-chooser-container ul {
-  display: none;
+  /* display: none; */
+}
+
+.img-full-width img {
+  width: 100%;
 }
