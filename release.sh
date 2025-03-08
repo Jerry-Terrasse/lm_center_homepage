@@ -11,6 +11,12 @@ if find ./public -print | grep -P "[^\x00-\x7F]" > /dev/null; then
     exit 1
 fi
 
+# Check if there are webp images in the output
+if find ./public -type f -name "*.webp" | grep -q .; then
+    echo -e "\033[31mError: webp images found in the output\033[0m"
+    exit 1
+fi
+
 python update_index.py
 cp ./public/index.html ./public/index.htm
 
