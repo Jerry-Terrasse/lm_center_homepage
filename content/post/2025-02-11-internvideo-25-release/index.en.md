@@ -11,7 +11,7 @@ tags:
   - conference
 
 image:
-  filename: image.png
+  filename: shlab.jpg
 ---
 
 <div class="img-full-width">
