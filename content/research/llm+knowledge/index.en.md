@@ -25,10 +25,10 @@ sections:
       text: |
         The LLM + Knowledge research group has published more than 20 papers in high-level international conferences and journals in the fields of artificial intelligence, knowledge graphs, and natural language processing. It has undertaken over 10 related R&D projects for companies such as Huawei, Tencent, BAAI, Baichuan, State Grid, and CETC.
 
-        ### Representative Achievement 1: Foundation Model Knowledge Enhancement
-        ![base](base.png)
+        ### Representative Achievement 1: Efficient Collaboration Between Language Models and Graph Models
+        ![enhance](enhance.png)
 
-        Conventional knowledge graph reasoning methods typically assume a single, static graph where each entity and relation is represented by a vector via self-supervised learning, followed by designing scoring functions. However, real-world knowledge graphs are often multi-sourced and dynamically updated. To address multi-source knowledge graph reasoning, we propose a universal foundation model that leverages contextual prompt graphs. This model uses prompt graphs as context to capture general reasoning patterns across multiple knowledge graphs and employs a unified tokenizer for comprehensive representations. Pretrained on only three universal knowledge graphs, the model was extensively evaluated on 43 datasets under both transductive and inductive link prediction settings. The results demonstrate its universal reasoning capability on multi-source knowledge graphs, outperforming state-of-the-art supervised methods on most datasets.
+        Large Language Models (LLMs) face challenges such as knowledge gaps and difficulty in updating internal knowledge, often leading to the problem of “hallucinations”. Knowledge graphs, which store vast amounts of structured knowledge, provide a data foundation for addressing this issue. In recent years, our research team has conducted in-depth studies following the “foundation model - knowledge injection - retrieval augmentation” framework and has published a series of findings in top-tier international conferences: At NeurIPS 2024, we proposed the first knowledge graph foundation model in China; At NAACL 2024, we presented an LLM enhancement method based on embedding-based knowledge adapters and instruction tuning; At NAACL 2025, we introduced a retrieval-augmented generation (RAG) method for question answering (QA) using knowledge graphs.
 
         #### Related Paper:
 
@@ -37,26 +37,45 @@ sections:
         </div>
 
         <div>
-          Xiangrong Zhu, Yuexiang Xie, Yi Liu, Yaliang Li, Wei Hu. <a href="placeholder">Knowledge graph-guided retrieval augmented generation</a>. NAACL, 2025.
+          Xiangrong Zhu, Yuexiang Xie, Yi Liu, Yaliang Li, Wei Hu. <a href="https://arxiv.org/abs/2502.06864">Knowledge graph-guided retrieval augmented generation</a>. NAACL, 2025.
         </div>
 
         <div>
-          Xindi Luo, Zequn Sun, Jing Zhao, Zhe Zhao, Wei Hu. <a href="https://arxiv.org/abs/2403.14950">KnowLA: Enhancing parameter-efficient finetuning with knowledgeable adaptation</a>. NAACL, 7146–7159, 2024.
+          Xindi Luo, Zequn Sun, Jing Zhao, Zhe Zhao, Wei Hu. <a href="https://arxiv.org/abs/2403.14950">KnowLA: Enhancing parameter-efficient finetuning with knowledgeable adaptation</a>. NAACL, 2024.
         </div>
 
-        ### Representative Achievement 2: Code Large Model
-        ![code](code.png)
+        ### Representative Achievement 2: Large Model Controllable Generation
+        ![control](control.png)
 
-        With the rapid advancement of large language models in code generation, we have turned our attention to enhancing models' reasoning abilities in complex programming scenarios. We propose an intelligent code generation framework—PairCoder—based on multi-plan exploration and feedback-driven optimization. Inspired by pair programming in software engineering, the framework features two collaborative agents: Navigator and Driver. Navigator is responsible for high-level problem analysis, generating multiple potential solution plans, and dynamically adjusting strategies based on feedback; Driver focuses on concrete code generation, testing, and debugging. Through iterative collaboration, these agents achieve global exploration and incremental optimization in code generation. Experiments on five code generation benchmark datasets and three foundation models show that our approach significantly outperforms existing methods in accuracy, especially in complex programming tasks, while maintaining high computational efficiency and cost-effectiveness.
+        With the rapid development of large models, ensuring controllability over the attributes of generated content is crucial. This includes the ability to regulate aspects such as sentiment tendencies and topic types. Our research team has made several advancements in this area: At ACL 2024, we investigated the issue of imbalanced attribute associations and introduced disentangled counterfactual augmentation; At AAAI 2024, we explored optimization strategies and proposed a multi-list preference optimization strategy for fine-tuning protein large models; At ICDE 2024, we studied model interpretability by integrating knowledge graphs and designed a semantic matching-based explanation generation method.
 
         #### Related Paper:
 
         <div>
-          Huan Zhang, Wei Cheng, Yuhan Wu, Wei Hu. <a href="https://dl.acm.org/doi/abs/10.1145/3691620.3695506">A pair programming framework for code generation via multi-plan exploration and feedback-driven refinement</a>. ASE, 1319–1331, 2024. Distinguished paper award.
+          Yi Liu, Xiangyu Liu, Xiangrong Zhu, Wei Hu. <a href="https://arxiv.org/abs/2405.19958">Multi-aspect controllable text generation with disentangled counterfactual augmentation</a>. ACL, 2024.
         </div>
 
         <div>
-          Wei Cheng, Yuhan Wu, Wei Hu. <a href="https://arxiv.org/abs/2405.19782">Dataflow-guided retrieval augmentation for repository-level code completion</a>. ACL, 7957–7977, 2024.
+          Xiangyu Liu, Yi Liu, Silei Chen, Wei Hu. <a href="http://arxiv.org/abs/2501.15007">Controllable protein sequence generation with large language model preference optimization</a>. AAAI, 2025.
+        </div>
+
+        <div>
+          Xiaobin Tian, Zequn Sun, Wei Hu. <a href="https://arxiv.org/abs/2312.04877">Generating explanations to understand and repair embedding-based entity alignment</a>. ICDE, 2024.
+        </div>
+
+        ### Representative Achievement 3: Domain-specific Large Models
+        ![code](code.png)
+
+        The construction of domain-specific large models is crucial for enhancing the intelligence level of specific industries. Compared to general-purpose large models, domain-specific models can more accurately comprehend specialized knowledge, provide high-quality decision support, and improve the reliability and interpretability of real-world applications. In medicine, our research team developed the “ChaoYi” large model, which enables personalized health education and prescription generation for chronic diseases such as diabetes and hypertension. It serves 20 primary healthcare centers in Shanghai and Nanjing. In software engineering, we developed a code large model to assist with code generation and optimization, exploring cutting-edge advancements in intelligent software development.
+
+        #### Related Paper:
+
+        <div>
+          Huan Zhang, Wei Cheng, Yuhan Wu, Wei Hu. <a href="https://arxiv.org/abs/2409.05001">A pair programming framework for code generation via multi-plan exploration and feedback-driven refinement</a>. ASE, 2024. Distinguished paper award.
+        </div>
+
+        <div>
+          Wei Cheng, Yuhan Wu, Wei Hu. <a href="https://arxiv.org/abs/2405.19782">Dataflow-guided retrieval augmentation for repository-level code completion</a>. ACL, 2024.
         </div>
 ---
 
