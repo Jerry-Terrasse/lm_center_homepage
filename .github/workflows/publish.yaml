@@ -51,12 +51,37 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-    - name: Generate Pagefind search index
-      run: npx pagefind --site "public"
+    # - name: Generate Pagefind search index
+    #   run: npx pagefind --site "public"
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
       with:
         path: ./public
+    - name: Build for the WebPlus platform
+      run: |
+        ./release.sh # release.zip created is actually not used
+    - name: Upload artifact without videos and images
+      uses: actions/upload-artifact@v4
+      with:
+        name: release
+        path: | # use wildcard to prevent top-level directory
+          public/*
+          !public/**/*.mp4
+          !public/**/*.jpg
+          !public/**/*.png
+    - name: Upload artifact with images but without videos
+      uses: actions/upload-artifact@v4
+      with:
+        name: release_with_images
+        path: |
+          public/*
+          !public/**/*.mp4
+    - name: Upload artifact with all files
+      uses: actions/upload-artifact@v4
+      with:
+        name: release_with_all
+        path: |
+          public/*
 
   # Deploy website to GitHub Pages hosting
   deploy:
