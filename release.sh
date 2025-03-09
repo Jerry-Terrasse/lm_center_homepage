@@ -22,4 +22,10 @@ cp ./public/index.html ./public/index.htm
 
 rm -f release.zip
 cd public
-zip -r ../release.zip . -x "*.mp4" "*.jpg" "*.png"
+if [ "$1" == "--with-all" ]; then
+    zip -r ../release.zip .
+elif [ "$1" == "--with-images" ]; then
+    zip -r ../release.zip . -x "*.mp4"
+else
+    zip -r ../release.zip . -x "*.mp4" "*.jpg" "*.png"
+fi
