@@ -1,5 +1,5 @@
 ---
-title: Large Model Systems and Platforms Research Group
+title: Large Model Learning Algorithms and Platform Research Group
 date: 1010-01-01 # to control the display order
 type: landing
 
@@ -11,7 +11,7 @@ sections:
     content:
       # title:
       text: |
-        ## Large Model Systems and Platforms Research Group
+        ## Large Model Learning Algorithms and Platform Research Group
   - block: collection
     id: members
     content:
@@ -70,4 +70,4 @@ sections:
         - Yangyijian Liu, Jun Li, Wu-Jun Li, <a href="placeholder" target="_blank">PIPO: Pipelined Offloading for Efficient Inference on Consumer Devices</a>, Submitted, 2025.
 ---
 
-The Large Model Systems and Platforms Research Group focuses on the construction of systems based on large models, large-scale training/inference deployment, and the application of large models. The group conducts research to address key challenges in efficient training, deployment, and the integration of domain knowledge into large models. In terms of applications, the group has a strong focus on reasoning tasks such as Automated Theorem Proving (ATP). In undergraduate education, the group offers courses on large model development, training students to build large models from scratch.
+The Large Model Learning Algorithms and Platform Research Group focuses on the construction of systems based on large models, large-scale training/inference deployment, and the application of large models. The group conducts research to address key challenges in efficient training, deployment, and the integration of domain knowledge into large models. In terms of applications, the group has a strong focus on reasoning tasks such as Automated Theorem Proving (ATP). In undergraduate education, the group offers courses on large model development, training students to build large models from scratch.
