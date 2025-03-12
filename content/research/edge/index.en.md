@@ -45,5 +45,10 @@ sections:
         ![Analytics](analytics.png)
 
         This study presents a neural network-based key region enhancement system for edge large model video analysis. The system effectively reduces spatial redundancy in video data and improves analysis efficiency. It consists of three core technologies: 1) a region importance predictor to rapidly identify key regions and minimize unnecessary computations; 2) a region-aware enhancement module that efficiently stitches sparse regions and enhances key frames; and 3) an intelligent scheduling mechanism that optimizes resource allocation to boost inference speed. Experiments on five heterogeneous edge devices demonstrate an accuracy improvement of 10-19% and a throughput increase of 2-3 times over state-of-the-art frame enhancement methods, offering an innovative solution for efficient video analysis on edge devices.
+
+        Related Paper:
+
+        Weijun Wang, Liang Mi, Shaowei Cen, Haipeng Dai, Yuanchun Li, Xiaoming Fu, Yunxin Liu. <a href="https://arxiv.org/abs/2407.16990" target="_blank">Efficient Neuro-enhanced Video Analytics</a>, in NSDI 2025.
 ---
-The Edge Large Model System Research Group focuses on frontier optimization techniques for large model systems, aiming to build a high-precision, low-latency, and scalable large model service framework...
+
+The Edge Large Model System Research Group focuses on frontier optimization techniques for large model systems. Centered on building a high-precision, low-latency, and scalable large model service framework, our research covers operator optimization, adaptive parameter tuning, and multimodal task scheduling.
