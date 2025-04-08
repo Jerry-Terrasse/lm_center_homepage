@@ -65,7 +65,7 @@ sections:
         **相关论文：**
 
         - Wen-Pu Cai, Ming-Yang Li, Wu-Jun Li, <a href="https://arxiv.org/abs/2405.20973" target="_blank">LCQ: Low-Rank Codebook based Quantization for Large Language Models</a>, in arXiv 2024.
-        - Yangyijian Liu, Jun Li, Wu-Jun Li, <a href="http://arxiv.org/abs/2504.03664" target="_blank">PIPO: Pipelined Offloading for Efficient Inference on Consumer Devices</a>, Submitted, 2025.
+        - Yangyijian Liu, Jun Li, Wu-Jun Li, <a href="http://arxiv.org/abs/2504.03664" target="_blank">PIPO: Pipelined Offloading for Efficient Inference on Consumer Devices</a>, in arXiv 2025.
 ---
 
 大模型机器学习算法与平台研究小组致力于探索高效能训练和推理机器学习算法，并构建相应的平台与系统，支撑大模型的高准确率、低成本训练和部署。
