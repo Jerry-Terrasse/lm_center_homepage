@@ -1,5 +1,5 @@
 ---
-title: LLM System Group
+title: Large Language Model System Research Group
 date: 1002-12-01 # to control the display order
 # author: test
 type: landing
@@ -11,9 +11,9 @@ design:
 sections:
   - block: markdown
     content:
-      # title: LLM System Group
+      # title: Large Language Model System Research Group
       text: |
-        ## LLM System Group
+        ## Large Language Model System Research Group
   - block: collection
     id: members
     content:
@@ -58,4 +58,4 @@ sections:
         Zibo Wang, Yijia Zhang, Fuchun Wei, Bingqiang Wang, Yanlin Liu, Zhiheng Hu, Jingyi Zhang, Xiaoxin Xu, Jian He, Xiaoliang Wang, Wanchun Dou, Guihai Chen, and Chen Tian. <a href="https://cs.nju.edu.cn/tianchen/lunwen/2025/asplos25-zibo.pdf" target="_blank">Using Analytical Performance/Power Model and Fine-Grained DVFS to Enhance AI Accelerator Energy Efficiency</a>, in ASPLOS 2025.
 ---
 
-The LLM System Group, together with Pengcheng Laboratory, Huawei Technologies Co., Ltd., and other institutions, has conducted in-depth research on key topics such as large model training/inference performance and power consumption. Relevant papers have been published at top computer architecture conferences, and the corresponding technologies have been deployed in industry.
+The Large Language Model System Research Group, together with Pengcheng Laboratory, Huawei Technologies Co., Ltd., and other institutions, has conducted in-depth research on key topics such as large model training/inference performance and power consumption. Relevant papers have been published at top computer architecture conferences, and the corresponding technologies have been deployed in industry.
