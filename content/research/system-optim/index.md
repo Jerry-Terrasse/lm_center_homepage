@@ -30,7 +30,7 @@ sections:
     content:
       title: 重要成果简介
       text: |
-        南京大学与鹏城实验室、华为技术有限公司等其他单位，针对大模型训练/推理性能、功耗等重要课题进行了深入研究，相关论文在计算机体系结构顶级会议上发表，对应技术也在公司中实际落地部署。代表性成果如下：
+        南京大学 NASA 课题组携手鹏城实验室、华为技术有限公司等知名单位开展合作，共同针对大模型训练与推理性能、功耗等关键课题展开了全面深入的研究探索。其研究成果不仅在计算机体系结构领域的顶级会议上发表，更是成功在相关企业中实现了落地部署，为推动技术从理论走向实践做出了积极贡献。以下是部分代表性成果展示：
 
         ### 代表性成果1：面向Ascend架构的AI算子性能建模与优化技术
         ![Operator](operator.png)
@@ -58,4 +58,4 @@ sections:
         Zibo Wang, Yijia Zhang, Fuchun Wei, Bingqiang Wang, Yanlin Liu, Zhiheng Hu, Jingyi Zhang, Xiaoxin Xu, Jian He, Xiaoliang Wang, Wanchun Dou, Guihai Chen, and Chen Tian. <a href="https://cs.nju.edu.cn/tianchen/lunwen/2025/asplos25-zibo.pdf" target="_blank">Using Analytical Performance/Power Model and Fine-Grained DVFS to Enhance AI Accelerator Energy Efficiency</a>, in ASPLOS 2025.
 ---
 
-大模型训推系统优化研究小组与鹏城实验室、华为技术有限公司等其他单位，针对大模型训练/推理性能、功耗等重要课题进行了深入研究，相关论文在计算机体系结构顶级会议上发表，对应技术也在公司中实际落地部署。
+南京大学 NASA 课题组携手鹏城实验室、华为技术有限公司等知名单位开展合作，共同针对大模型训练与推理性能、功耗等关键课题展开了全面深入的研究探索。其研究成果不仅在计算机体系结构领域的顶级会议上发表，更是成功在相关企业中实现了落地部署，为推动技术从理论走向实践做出了积极贡献。

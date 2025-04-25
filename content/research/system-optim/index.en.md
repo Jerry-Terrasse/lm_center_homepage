@@ -30,7 +30,7 @@ sections:
     content:
       title: Introduction to Key Achievements
       text: |
-        Nanjing University, together with Pengcheng Laboratory, Huawei Technologies Co., Ltd., and other institutions, has conducted in-depth research on key topics such as large model training/inference performance and power consumption. Relevant papers have been published at top computer architecture conferences, and the corresponding technologies have been deployed in industry. Representative achievements are as follows:
+        The NASA research group of Nanjing University, in collaboration with renowned institutions such as Pengcheng Laboratory and Huawei Technologies Co., Ltd., has conducted comprehensive and in-depth research on key topics including large model training/inference performance and power consumption. The research achievements have not only been published at top conferences in the field of computer architecture, but have also been successfully deployed in relevant enterprises, making positive contributions to bridging the gap between theory and practice. Below are some representative achievements:
 
         ### Representative Achievement 1: AI Operator Performance Modeling and Optimization for Ascend Architecture
         ![Operator](operator.png)
@@ -58,4 +58,4 @@ sections:
         Zibo Wang, Yijia Zhang, Fuchun Wei, Bingqiang Wang, Yanlin Liu, Zhiheng Hu, Jingyi Zhang, Xiaoxin Xu, Jian He, Xiaoliang Wang, Wanchun Dou, Guihai Chen, and Chen Tian. <a href="https://cs.nju.edu.cn/tianchen/lunwen/2025/asplos25-zibo.pdf" target="_blank">Using Analytical Performance/Power Model and Fine-Grained DVFS to Enhance AI Accelerator Energy Efficiency</a>, in ASPLOS 2025.
 ---
 
-The Large Language Model System Research Group, together with Pengcheng Laboratory, Huawei Technologies Co., Ltd., and other institutions, has conducted in-depth research on key topics such as large model training/inference performance and power consumption. Relevant papers have been published at top computer architecture conferences, and the corresponding technologies have been deployed in industry.
+The NASA research group of Nanjing University, in collaboration with renowned institutions such as Pengcheng Laboratory and Huawei Technologies Co., Ltd., has conducted comprehensive and in-depth research on key topics including large model training/inference performance and power consumption. The research achievements have not only been published at top conferences in the field of computer architecture, but have also been successfully deployed in relevant enterprises, making positive contributions to bridging the gap between theory and practice.
