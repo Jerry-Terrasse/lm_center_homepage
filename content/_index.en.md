@@ -22,10 +22,10 @@ sections:
         text: Publications
         url: /lm/en/publication/
       announcement:
-        text: "The Chinese Academy of Sciences Academicians Forum on the Healthy Development and Empowerment of Large Models/AIGC Held in Nanjing"
+        text: "12 Papers from Nanjing University’s Large Model Center Accepted by CVPR 2025"
         link:
           text: "More"
-          url: "/lm/en/post/2024-01-16-healthy-development-and-empowerment-of-large-models-aigc/"
+          url: "/lm/en/post/2025-04-30-cvpr25-accepted/"
     design:
       spacing:
         padding: [0, 0, 0, 0]

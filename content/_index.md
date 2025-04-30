@@ -22,10 +22,10 @@ sections:
         text: 我们的文章
         url: /lm/publication/
       announcement:
-        text: "中国科学院学部“大模型/AIGC的健康发展与赋能赋智”科学与技术前沿论坛在南京召开"
+        text: "南京大学计算机学院大模型中心12篇论文被CVPR 2025录用"
         link:
           text: "更多"
-          url: "/lm/post/2024-01-16-healthy-development-and-empowerment-of-large-models-aigc/"
+          url: "/lm/post/2025-04-30-cvpr25-accepted/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
