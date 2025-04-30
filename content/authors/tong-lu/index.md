@@ -15,10 +15,10 @@ name_pronunciation:
 #   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # If the homepage is not available, leave the field below empty
 #  otherwise, provide url like '/authors/alice/' or 'https://www.example.com'
