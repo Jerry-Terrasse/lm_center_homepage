@@ -5,6 +5,9 @@ tags: [kg, kg_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: Wei
+last_name: Hu
 
 superuser: false
 highlight_name: false

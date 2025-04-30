@@ -1,14 +1,13 @@
 ---
 # Display name
-title: 王利民
+title: Limin Wang
 tags: [mm, mm_prof, body, body_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
-
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: 王利民
+last_name: 
 
 # Status emoji
 # status:

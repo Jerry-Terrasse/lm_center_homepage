@@ -5,6 +5,9 @@ tags: [science, science_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: Tianfan
+last_name: Fu
 
 superuser: false
 highlight_name: false

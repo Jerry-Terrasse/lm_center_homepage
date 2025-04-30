@@ -5,10 +5,9 @@ tags: [optim, optim_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
-
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: Zhibin
+last_name: Wang
 
 # Status emoji
 # status:

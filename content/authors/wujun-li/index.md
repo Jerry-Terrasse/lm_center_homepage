@@ -1,10 +1,13 @@
 ---
 # Display name
-title: 李武军
+title: Wujun Li
 tags: [sys, sys_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: 李武军
+last_name: 
 
 superuser: false
 highlight_name: false

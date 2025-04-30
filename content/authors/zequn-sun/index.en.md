@@ -5,6 +5,9 @@ tags: [kg, kg_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: Zequn
+last_name: Sun
 
 superuser: false
 highlight_name: false

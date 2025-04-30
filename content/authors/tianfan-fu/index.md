@@ -1,10 +1,13 @@
 ---
 # Display name
-title: 符天凡
+title: Tianfan Fu
 tags: [science, science_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: 符天凡
+last_name: 
 
 superuser: false
 highlight_name: false

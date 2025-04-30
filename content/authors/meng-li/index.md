@@ -1,14 +1,13 @@
 ---
 # Display name
-title: 李猛
+title: Meng Li
 tags: [edge, edge_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
-
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: 李猛
+last_name: 
 
 # Status emoji
 # status:

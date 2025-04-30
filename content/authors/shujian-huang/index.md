@@ -1,7 +1,13 @@
 ---
 # Display name
-title: 黄书剑
+title: Shujian Huang
 tags: [llm, llm_prof]
+
+# Name pronunciation (optional)
+name_pronunciation: 
+# Full name (for SEO)
+first_name: 黄书剑
+last_name: 
 
 homepage: http://nlp.nju.edu.cn/huangsj
 

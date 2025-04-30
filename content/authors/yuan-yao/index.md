@@ -1,10 +1,13 @@
 ---
 # Display name
-title: 姚远
+title: Yuan Yao
 tags: [soft, soft_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: 姚远
+last_name: 
 
 superuser: false
 highlight_name: false

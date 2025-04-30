@@ -1,10 +1,13 @@
 ---
 # Display name
-title: 徐经伟
+title: Jingwei Xu
 tags: [soft, soft_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: 徐经伟
+last_name: 
 
 superuser: false
 highlight_name: false

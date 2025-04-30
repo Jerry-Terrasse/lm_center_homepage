@@ -1,14 +1,13 @@
 ---
 # Display name
-title: 戴海鹏
+title: Haipeng Dai
 tags: [edge, edge_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
-
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: 戴海鹏
+last_name: 
 
 # Status emoji
 # status:

@@ -3,6 +3,12 @@
 title: Shujian Huang
 tags: [llm, llm_prof]
 
+# Name pronunciation (optional)
+name_pronunciation: 
+# Full name (for SEO)
+first_name: Shujian
+last_name: Huang
+
 homepage: http://nlp.nju.edu.cn/huangsj
 
 # Role/position/tagline

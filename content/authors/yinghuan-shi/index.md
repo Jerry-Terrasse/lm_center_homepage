@@ -1,14 +1,13 @@
 ---
 # Display name
-title: 史颖欢
+title: Yinghuan Shi
 tags: [med, med_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
-
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: 史颖欢
+last_name: 
 
 # Status emoji
 # status:

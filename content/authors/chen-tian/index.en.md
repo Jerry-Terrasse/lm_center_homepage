@@ -1,14 +1,13 @@
 ---
 # Display name
-title: Tian Chen
+title: Chen Tian
 tags: [optim, optim_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
-
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: Chen
+last_name: Tian
 
 # Status emoji
 # status:

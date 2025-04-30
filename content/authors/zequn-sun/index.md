@@ -1,10 +1,13 @@
 ---
 # Display name
-title: 孙泽群
+title: Zequn Sun
 tags: [kg, kg_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: 孙泽群
+last_name: 
 
 superuser: false
 highlight_name: false

@@ -1,14 +1,13 @@
 ---
 # Display name
-title: 路通
+title: Tong Lu
 tags: [mm, mm_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
-
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: 路通
+last_name: 
 
 # Status emoji
 # status:

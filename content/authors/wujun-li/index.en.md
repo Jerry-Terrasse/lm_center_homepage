@@ -5,6 +5,9 @@ tags: [sys, sys_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: Wujun
+last_name: Li
 
 superuser: false
 highlight_name: false

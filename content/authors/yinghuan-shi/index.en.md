@@ -5,10 +5,9 @@ tags: [med, med_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
-
 # Full name (for SEO)
-# first_name: Shiung Wu
-# last_name: Chien
+first_name: Yinghuan
+last_name: Shi
 
 # Status emoji
 # status:

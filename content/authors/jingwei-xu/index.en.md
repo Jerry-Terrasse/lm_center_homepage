@@ -5,6 +5,9 @@ tags: [soft, soft_prof]
 
 # Name pronunciation (optional)
 name_pronunciation: 
+# Full name (for SEO)
+first_name: Jingwei
+last_name: Xu
 
 superuser: false
 highlight_name: false

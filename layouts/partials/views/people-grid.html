@@ -31,11 +31,11 @@
 
       {{- if $info.name_pronunciation -}}
         <ruby>
-          <rb><a {{ $title_attr }}>{{ $info.Title }}</a></rb>
+          <rb><a {{ $title_attr }}>{{ $info.first_name }} {{ $info.last_name }}</a></rb>
           <rt>{{ $info.name_pronunciation }}</rt>
         </ruby>
       {{- else -}}
-        <a {{ $title_attr }}>{{ $info.Title }}</a>
+        <a {{ $title_attr }}>{{ $info.first_name }} {{ $info.last_name }}</a>
       {{- end -}}
     </div>
 
