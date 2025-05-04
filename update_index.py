@@ -10,6 +10,7 @@ PATTERN_LIST = [
 
     (re.compile(r"/research/(.+?)/\""), "/research/\\1/index.html\""),
     (re.compile(r"/post/(.+?)/\""), "/post/\\1/index.html\""),
+    (re.compile(r"/publication/(.+?)/\""), "/publication/\\1/index.html\""),
 ]
 
 def process_html_files(root_dir):
