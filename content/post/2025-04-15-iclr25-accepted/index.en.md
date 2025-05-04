@@ -1,6 +1,6 @@
 ---
-title: "Five Papers from Nanjing University’s School of Computer Science Large Model Innovation Center Accepted at ICLR25"
-summary: "Recently, five papers from the Large Model Innovation Center of Nanjing University’s School of Computer Science were accepted at ICLR25, including TimeSuite, CG-Bench, SPA, Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning, and MeteoRA."
+title: "Five Papers from Nanjing University’s School of Computer Science Large Model Innovation Center Accepted at ICLR 2025"
+summary: "Recently, five papers from the Large Model Innovation Center of Nanjing University’s School of Computer Science were accepted at ICLR 2025, including TimeSuite, CG-Bench, SPA, Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning, and MeteoRA."
 date: 2025-04-15
 
 authors:
@@ -15,7 +15,7 @@ image:
 
 > ICLR (International Conference on Learning Representations) is one of the leading AI conferences focusing on deep learning and representation learning. Since its inception in 2013, ICLR has become a premier platform for machine learning research, particularly in deep learning, neural architectures, reinforcement learning, generative models, and NLP.
 >
-> Five papers from the Large Model Innovation Center of Nanjing University’s School of Computer Science were accepted at ICLR25.
+> Five papers from the Large Model Innovation Center of Nanjing University’s School of Computer Science were accepted at ICLR 2025.
 
 # 01
 

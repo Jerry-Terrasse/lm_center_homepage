@@ -1,6 +1,6 @@
 ---
-title: "南京大学计算机学院大模型中心5篇论文被ICLR25录用。"
-summary: "近日，南京大学计算机学院大模型中心5篇论文被ICLR25录用，包括TimeSuite、CG-Bench、SPA、MeteoRA等。"
+title: "南京大学计算机学院大模型中心5篇论文被ICLR 2025录用"
+summary: "近日，南京大学计算机学院大模型中心5篇论文被ICLR 2025录用，包括TimeSuite、CG-Bench、SPA、MeteoRA等。"
 date: 2025-04-15
 
 authors:
@@ -15,7 +15,7 @@ image:
 
 > ICLR（International Conference on Learning Representations）是人工智能领域中专注于深度学习和表征学习的顶级学术会议之一。自2013年首次举办以来，ICLR迅速成为机器学习研究的前沿平台，尤其在深度学习、神经网络架构、强化学习、生成模型、自然语言处理等领域具有广泛的影响力。
 >
-> 南京大学计算机学院大模型中心有5篇论文被ICLR25录用。
+> 南京大学计算机学院大模型中心有5篇论文被ICLR 2025录用。
 
 # 01
 
