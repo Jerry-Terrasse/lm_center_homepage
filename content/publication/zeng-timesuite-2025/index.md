@@ -1,5 +1,5 @@
 ---
-title: 'TimeSuite: improving MLLMs for long video understanding via grounded tuning'
+title: 'TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning'
 authors:
 - Xiangyu Zeng
 - Kunchang Li
@@ -15,7 +15,7 @@ authors:
 - Yu Qiao
 - Limin Wang
 date: '2025-01-01'
-publishDate: '2025-04-30T12:29:39.878189Z'
+publishDate: '2025-05-04T04:20:52.630144Z'
 publication_types:
 - paper-conference
 publication: '*The Thirteenth International Conference on Learning Representations*'
