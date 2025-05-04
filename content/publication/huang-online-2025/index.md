@@ -12,9 +12,13 @@ authors:
 - Xi Chen
 - Liang Li
 - Limin Wang
-date: '2024-01-01'
-publishDate: '2025-04-30T08:44:46.863980Z'
+date: '2025-01-01'
+publishDate: '2025-05-04T04:51:56.494170Z'
 publication_types:
 - article-journal
-publication: '*Arxiv Preprint Arxiv:2501.00584*'
+publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition*'
+links:
+- name: URL
+  url: https://arxiv.org/abs/2501.00584
 ---

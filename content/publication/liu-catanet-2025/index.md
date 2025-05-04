@@ -6,8 +6,12 @@ authors:
 - Jie Tang
 - Gangshan Wu
 date: '2025-01-01'
-publishDate: '2025-04-30T08:44:46.839583Z'
+publishDate: '2025-05-04T04:51:56.469165Z'
 publication_types:
 - article-journal
-publication: '*Arxiv Preprint Arxiv:2503.06896*'
+publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition*'
+links:
+- name: URL
+  url: https://arxiv.org/abs/2503.06896
 ---
