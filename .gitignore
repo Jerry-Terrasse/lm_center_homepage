@@ -3,6 +3,7 @@
 _vendor/
 public/
 resources/
+content/publication/
 .hugo_build.lock
 hugo_stats.json
 

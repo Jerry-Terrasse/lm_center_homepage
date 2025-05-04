@@ -2,6 +2,8 @@
 
 set -e
 
+./gen_publications.sh
+
 rm -rf ./public
 hugo build -b https://cs.nju.edu.cn/lm/
 
@@ -18,7 +20,7 @@ if find ./public -type f -name "*.webp" | grep -q .; then
 fi
 
 python update_index.py
-cp ./public/index.html ./public/index.htm
+cp -v ./public/index.html ./public/index.htm
 
 rm -f release.zip
 cd public
