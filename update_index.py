@@ -4,14 +4,17 @@ import re
 
 PATTERN_LIST = [
     (re.compile(r"/en/\""), "/en/index.html\""),
+    
     (re.compile(r"/research/\""), "/research/index.html\""),
-    (re.compile(r"/post/\""), "/post/index.html\""),
-    (re.compile(r"/publication/\""), "/publication/index.html\""),
-
     (re.compile(r"/research/(.+?)/\""), "/research/\\1/index.html\""),
+    
+    (re.compile(r"/post/\""), "/post/index.html\""),
     (re.compile(r"/post/(.+?)/\""), "/post/\\1/index.html\""),
+    
+    (re.compile(r"/publication/\""), "/publication/index.html\""),
     (re.compile(r"/publication/(.+?)/\""), "/publication/\\1/index.html\""),
     (re.compile(r"/publication/(.+?)/cite.bib\""), "/publication/\\1/cite.txt\""),
+    (re.compile(r"/publication/page/(.+?)/\""), "/publication/page/\\1/index.html\""),
 ]
 
 def process_html_files(root_dir):
