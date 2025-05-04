@@ -14,3 +14,8 @@ for pub in ./content/publication/*; do
         cp -v $pub/index.md $pub/index.en.md
     fi
 done
+
+# copy *.bib to *.txt (.bib file is not supported by the platform)
+for bib in ./content/publication/*/cite.bib; do
+    cp -v $bib ${bib%.bib}.txt
+done

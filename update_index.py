@@ -11,6 +11,7 @@ PATTERN_LIST = [
     (re.compile(r"/research/(.+?)/\""), "/research/\\1/index.html\""),
     (re.compile(r"/post/(.+?)/\""), "/post/\\1/index.html\""),
     (re.compile(r"/publication/(.+?)/\""), "/publication/\\1/index.html\""),
+    (re.compile(r"/publication/(.+?)/cite.bib\""), "/publication/\\1/cite.txt\""),
 ]
 
 def process_html_files(root_dir):
