@@ -67,7 +67,7 @@ sections:
             <a><img src="/lm/images/links.svg" class="inline-block" style="height: 1.25em"></a>
             <a href="https://github.com/liangyanshuo/InfLoRA" target="_blank"><img src="/lm/images/github.svg" class="inline-block" style="height: 1.5em"></img></a>
           </div>
-        - Yangyijian Liu, Jun Li, Wu-Jun Li, <a href="placeholder" target="_blank">PIPO: Pipelined Offloading for Efficient Inference on Consumer Devices</a>, Submitted, 2025.
+        - Yangyijian Liu, Jun Li, Wu-Jun Li, <a href="http://arxiv.org/abs/2504.03664" target="_blank">PIPO: Pipelined Offloading for Efficient Inference on Consumer Devices</a>, in arXiv, 2025.
 ---
 
 The Large Model Learning Algorithms and Platform Research Group focuses on the construction of systems based on large models, large-scale training/inference deployment, and the application of large models. The group conducts research to address key challenges in efficient training, deployment, and the integration of domain knowledge into large models. In terms of applications, the group has a strong focus on reasoning tasks such as Automated Theorem Proving (ATP). In undergraduate education, the group offers courses on large model development, training students to build large models from scratch.
