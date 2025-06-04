@@ -25,7 +25,7 @@ highlight_name: false
 homepage: https://cs.nju.edu.cn/gurong/
 
 # Role/position/tagline
-role: <a href='https://www.nju.edu.cn'>南京大学</a> 特聘研究员，博导
+role: <a href='https://www.nju.edu.cn'>南京大学</a>
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

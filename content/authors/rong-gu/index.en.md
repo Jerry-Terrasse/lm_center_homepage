@@ -25,7 +25,7 @@ highlight_name: false
 homepage: https://cs.nju.edu.cn/gurong/
 
 # Role/position/tagline
-role: <a href='https://www.nju.edu.cn'>Nanjing University</a> Distinguished Researcher, PhD Supervisor
+role: <a href='https://www.nju.edu.cn'>Nanjing University</a>
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
