@@ -46,9 +46,10 @@ jobs:
         key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
         restore-keys: |
           ${{ runner.os }}-hugomod-
+
     - name: Build for the WebPlus platform
       run: |
-        ./release.sh # release.zip created is actually not used
+        ./release.sh # release.zip is actually used as base of release_with_recent_images.zip
     - name: Upload artifact without videos and images
       uses: actions/upload-artifact@v4
       with:
@@ -58,6 +59,23 @@ jobs:
           !public/**/*.mp4
           !public/**/*.jpg
           !public/**/*.png
+
+    - name: Create package with recent images
+      run: |
+        ./pack_with_recent_images.sh
+    - name: Unpack for uploading
+      run: |
+        mkdir -p temp_release_with_recent_images
+        unzip -o release_with_recent_images.zip -d temp_release_with_recent_images
+      if: hashFiles('release_with_recent_images.zip') != ''
+    - name: Upload artifact with recent images only
+      uses: actions/upload-artifact@v4
+      with:
+        name: release_with_recent_images
+        path: |
+          temp_release_with_recent_images/*
+      if: hashFiles('release_with_recent_images.zip') != ''
+
     - name: Upload artifact with images but without videos
       uses: actions/upload-artifact@v4
       with:
@@ -71,6 +89,7 @@ jobs:
         name: release_with_all
         path: |
           public/*
+
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
