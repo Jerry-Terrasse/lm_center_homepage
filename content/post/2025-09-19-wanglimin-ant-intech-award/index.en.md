@@ -8,7 +8,7 @@ tags:
   - award
   - academia_news
 image:
-  filename: award_ceremony.jpeg
+  filename: award_ceremony.jpg
   focal_point: Smart
   preview_only: false
 ---
