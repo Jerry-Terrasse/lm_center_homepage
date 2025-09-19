@@ -22,10 +22,10 @@ sections:
         text: 我们的文章
         url: /lm/publication/
       announcement:
-        text: "南京大学计算机学院大模型中心12篇论文被CVPR 2025录用"
+        text: "我院王利民教授获2025蚂蚁Intech科技奖"
         link:
           text: "更多"
-          url: "/lm/post/2025-04-30-cvpr25-accepted/"
+          url: "/lm/post/2025-09-19-wanglimin-ant-intech-award/"
     design:
       spacing:
         padding: [0, 0, 0, 0]

@@ -22,10 +22,10 @@ sections:
         text: Publications
         url: /lm/en/publication/
       announcement:
-        text: "12 Papers from Nanjing University’s Large Model Center Accepted by CVPR 2025"
+        text: "Professor Wang Limin Receives 2025 Ant Intech Technology Award"
         link:
           text: "More"
-          url: "/lm/en/post/2025-04-30-cvpr25-accepted/"
+          url: "/lm/en/post/2025-09-19-wanglimin-ant-intech-award/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
