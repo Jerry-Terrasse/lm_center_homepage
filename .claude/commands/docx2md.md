@@ -28,21 +28,30 @@ I will convert a DOCX file to Hugo Blox-compatible markdown format following the
    - Output includes YAML front matter when available
 
 ## Phase 3: Hugo Blox Compatibility Post-Processing
-5. **Title Structure Normalization**:
-   - Remove main document title (`# Title`) for Hugo Blox text block compatibility
+5. **Title Structure Preservation and Normalization**:
+   - **Preserve Title**: Keep main document title as YAML metadata AND as content heading
    - Convert all `## Section` to `### Section` (Hugo Blox uses ### for content sections)
-   - Preserve content hierarchy while adjusting for YAML text block context
+   - Maintain original content hierarchy while adjusting for YAML text block context
+   - Preserve all original section titles without modification
 
-6. **Image Processing and Standardization**:
+6. **Image Processing and Caption Enhancement**:
    - **Rename Strategy**: Convert generic names to semantic identifiers
      * `image1.png` → `stp.png` (for STP model)
      * `image2.png` → `spa.png` (for SPA model)
      * `image3.png` → `tramoe.png` (for Tra-MoE model)
      * `image4.png` → `tpm.png` (for TPM/planning model)
-   - **Reference Update**: Transform to Hugo Blox format
+   - **Reference Update with Enhanced Captions**: Transform to clean, centered format
      * From: `![Long descriptive text](extracted_images/media/image1.png){width="X" height="Y"}`
-     * To: `![STP](stp.png)`
+     * To:
+       ```
+       ![STP](stp.png)
+
+       <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">
+       图：时空预测驱动的具身视觉表征预训练模型STP
+       </p>
+       ```
    - **File Management**: Copy renamed files to working directory root for easy access
+   - **Caption Detection**: Extract image captions from surrounding text and preserve them
 
 7. **Academic Citation Transformation**:
    - **Detect Citation Patterns**: Identify multi-line author citations
@@ -60,11 +69,13 @@ I will convert a DOCX file to Hugo Blox-compatible markdown format following the
    - **Placeholder Management**: Use `PLACEHOLDER_ARXIV_URL` for manual URL replacement
    - **Format Consistency**: Ensure "in Conference" format for proceedings
 
-8. **Content Formatting and Cleanup**:
+8. **Content Formatting and Fidelity Preservation**:
    - **Line Break Fixes**: Repair pandoc-induced awkward line breaks
    - **Spacing Normalization**: Ensure consistent paragraph spacing
+   - **Content Fidelity**: Strictly preserve original text content without additions or modifications
    - **Technical Term Preservation**: Maintain proper spacing for terms like "6000 GPU小时"
    - **Name Formatting**: Fix split names like "Jitendra MALIK" back to "Jitendra MALIK"
+   - **Original Structure**: Keep original paragraph breaks, emphasis, and text flow
 
 ## Phase 4: Quality Assurance and Validation
 9. **Content Verification**:

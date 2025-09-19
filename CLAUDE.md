@@ -112,6 +112,9 @@ This project includes custom slash commands for document processing workflow:
 1. **Convert**: `/docx2md path/to/document.docx` - Process DOCX and extract content
 2. **Review**: Manually check conversion results and make adjustments if needed
 3. **Publish**: `/new-post path/to/docx2md/work/directory` - Create Hugo post with validation
+4. **Synchronize**: Update corresponding English versions of any modified content
+
+**Important**: Both slash commands create bilingual content structure but English versions require manual translation.
 
 See `.claude/commands/` for detailed workflow definitions.
 
@@ -154,3 +157,10 @@ See `.claude/commands/` for detailed workflow definitions.
 - Secondary language: English (en)
 - Content files use `.md` (Chinese) and `.en.md` (English) naming convention
 - Separate menu and parameter files for each language
+
+**CRITICAL**: Any modifications to Chinese content MUST be synchronized to corresponding English versions:
+- Content updates in `content/*/index.md` → `content/*/index.en.md`
+- Post changes in `content/post/*/index.md` → `content/post/*/index.en.md`
+- Menu updates in `config/_default/menus.yaml` → `config/_default/menus.en.yaml`
+- Parameter changes in `config/_default/params.yaml` → `config/_default/params.en.yaml`
+- This ensures consistency across both language versions and prevents broken navigation/functionality

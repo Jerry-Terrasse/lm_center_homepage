@@ -15,17 +15,17 @@ I will create a complete Hugo post from `/docx2md` output, including post struct
    - Publication type and appropriate tags
 3. **Generate Post Metadata**: Extract date and create slug from content/filename
 
-## Phase 2: Content Adaptation for Post Format
-4. **Transform Content Structure**: Adapt from research format to news/post format
-   - Convert technical content to accessible language
-   - Restructure from research sections to news narrative
-   - Identify key highlights and achievements
-   - Extract quotes or notable statements
-5. **Generate Post Elements**:
-   - Create engaging title (if different from source)
-   - Generate summary from key points
-   - Structure content with proper flow
-   - Identify cover image from available images
+## Phase 2: Content Preparation for Post Format
+4. **Content Fidelity Preservation**: Maintain strict adherence to original content
+   - **No Content Modification**: Preserve all original text without alteration
+   - **Format-Only Changes**: Apply only necessary formatting adjustments
+   - **Original Structure**: Keep original section organization and flow
+   - **Title Preservation**: Use original document title without modification
+5. **Post Structure Adaptation**:
+   - Extract original title from document
+   - Generate summary from opening paragraph (without modification)
+   - Preserve original content flow and organization
+   - Identify appropriate cover image from available images
 
 ## Phase 3: Hugo Post Structure Creation
 6. **Create Post Directory**:
@@ -47,11 +47,17 @@ I will create a complete Hugo post from `/docx2md` output, including post struct
    ---
    ```
 8. **Create Post Content Body**:
-   - Add engaging blockquote introduction
-   - Restructure technical content for general audience
-   - Highlight key achievements and impacts
-   - Insert image references with descriptive captions
-   - Add external links to papers/sources
+   - **Preserve Original Content**: Use original text without modification or simplification
+   - **Format Enhancement Only**: Apply Hugo-compatible formatting without changing content
+   - **Image Integration**: Insert enhanced image references with centered captions:
+     ```
+     ![STP](stp.png)
+
+     <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">
+     图：[原文图题]
+     </p>
+     ```
+   - **Original Links**: Preserve all original external links and citations
 
 ## Phase 4: Image Processing and Organization
 9. **Copy and Process Images**: Move images from docx2md output to post directory
@@ -115,10 +121,10 @@ I will create a complete Hugo post from `/docx2md` output, including post struct
 - Detailed manual review checklist
 
 **Content Transformation**:
-- Research content → News/announcement format
-- Technical details → Accessible highlights
-- Academic citations → Proper attribution links
-- Research sections → Engaging narrative structure
+- Original content → Hugo post format (structure only)
+- Technical details → Preserved exactly as written
+- Academic citations → Enhanced with proper HTML links
+- Original structure → Maintained with format optimization only
 
 ## Contextual Review Report
 After completion, I'll provide a specific checklist based on actual processing results:
