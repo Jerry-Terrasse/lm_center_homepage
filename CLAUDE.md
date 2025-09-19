@@ -46,6 +46,16 @@ python update_index.py
 python deal_cover.py ./path/to/cover.jpg
 ```
 
+### DOCX to Markdown Conversion
+```bash
+# Use slash command for standardized conversion
+/docx2md
+
+# Or manual process:
+mkdir -p ./tmp/work_YYYYMMDD_description
+pandoc "document.docx" -t markdown --extract-media=extracted_images --standalone -o "output.md"
+```
+
 ## Script Details
 
 ### `release.sh` - Production Build and Quality Control
@@ -90,6 +100,20 @@ Creates optimized packages containing only recently modified images:
   - `content/category/name/*` → `public/category/name/`
 - **Packaging**: Updates existing `release_with_recent_images.zip` with only changed directories
 - **Purpose**: Efficient deployment updates without transferring entire site
+
+## Slash Commands
+
+This project includes custom slash commands for document processing workflow:
+
+- `/docx2md` - Convert DOCX to Hugo Blox-compatible Markdown with comprehensive post-processing
+- `/new-post` - Create complete Hugo post from docx2md output with validation and testing
+
+### Workflow: DOCX to Published Post
+1. **Convert**: `/docx2md path/to/document.docx` - Process DOCX and extract content
+2. **Review**: Manually check conversion results and make adjustments if needed
+3. **Publish**: `/new-post path/to/docx2md/work/directory` - Create Hugo post with validation
+
+See `.claude/commands/` for detailed workflow definitions.
 
 ## Architecture
 
