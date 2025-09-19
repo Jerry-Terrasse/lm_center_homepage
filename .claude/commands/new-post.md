@@ -41,7 +41,7 @@ I will create a complete Hugo post from `/docx2md` output, including post struct
    authors:
      - admin
    tags:
-     - [auto-detected: accepted_papers, academia_news, etc.]
+     - [auto-detected English tags only: accepted_papers, academia_news, conference, award, etc.]
    image:
      filename: cover.jpg
    ---
@@ -135,6 +135,6 @@ After completion, I'll provide a specific checklist based on actual processing r
 - Content sections that required significant adaptation
 - Build test results and any errors found
 - Specific translation needs for the English version
-- Post categorization recommendations based on content analysis
+- Post categorization recommendations based on content analysis (English tags only: accepted_papers, academia_news, conference, award, etc.)
 
 **Usage**: First run `/docx2md path/to/document.docx`, review output, then run `/new-post path/to/docx2md/work/directory`

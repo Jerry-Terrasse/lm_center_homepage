@@ -5,10 +5,8 @@ date: 2025-09-19
 authors:
   - admin
 tags:
-  - 学术荣誉
-  - 人工智能
-  - 视频理解
-  - 大模型
+  - award
+  - academia_news
 image:
   filename: award_ceremony.jpeg
   focal_point: Smart

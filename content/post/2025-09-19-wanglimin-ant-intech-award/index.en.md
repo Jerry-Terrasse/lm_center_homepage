@@ -5,10 +5,8 @@ date: 2025-09-19
 authors:
   - admin
 tags:
-  - Academic Honor
-  - Artificial Intelligence
-  - Video Understanding
-  - Large Models
+  - award
+  - academia_news
 image:
   filename: award_ceremony.jpeg
   focal_point: Smart
