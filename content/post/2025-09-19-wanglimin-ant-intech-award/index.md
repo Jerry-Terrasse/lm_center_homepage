@@ -17,7 +17,7 @@ image:
 
 2025蚂蚁Intech奖是由蚂蚁科技集团股份有限公司设立的奖项，面向计算机科学领域的优秀青年学者与在读博士生提供公益性科研资金支持，设立"蚂蚁Intech科技奖"和"蚂蚁Intech奖学金"两大核心奖项。
 
-![2025蚂蚁Intech科技奖颁奖](award_ceremony.jpeg)
+![2025蚂蚁Intech科技奖颁奖](award_ceremony.jpg)
 
 <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">
 图：2025蚂蚁Intech科技奖颁奖
@@ -27,7 +27,7 @@ image:
 
 据了解，本届获奖者在通用人工智能（AGI）、具身智能、数字医学、数据安全等前沿方向展现出卓越创新能力，成果被业界广泛采用。我院王利民教授因在通用人工智能方面的重要贡献而获奖，获奖理由：开发了首个领先通用视频理解大模型InternVideo（下载量超500万），并提出了"渐进式训练"方法，让AI像人类分层理解动态世界，赋能自动驾驶等场景。
 
-![王利民教授参加圆桌论坛](forum_discussion.jpeg)
+![王利民教授参加圆桌论坛](forum_discussion.jpg)
 
 <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">
 图：王利民教授参加2025蚂蚁Intech科技奖颁奖典礼圆桌论坛
