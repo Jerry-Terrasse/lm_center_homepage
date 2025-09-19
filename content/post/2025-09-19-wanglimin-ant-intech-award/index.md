@@ -21,7 +21,9 @@ image:
 
 ![2025蚂蚁Intech科技奖颁奖](award_ceremony.jpeg)
 
-<center><em>图：2025蚂蚁Intech科技奖颁奖</em></center>
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">
+图：2025蚂蚁Intech科技奖颁奖
+</p>
 
 中国工程院院士、浙江大学教授陈纯，美国国家工程院外籍院士张宏江，中国工程院院士、清华大学教授郑纬民等学界权威亲临颁奖。美国科学院、工程院、艺术与科学院三院院士Michael I.Jordan，图灵奖获得者、美国国家工程院院士、美国田纳西大学电气工程和计算机科学系教授Jack Dongarra通过视频寄语青年学者："科研之路未必平坦，但你们今日探索的问题将定义未来技术与机遇。请大胆求真，你们的研究终将影响世界。"
 
@@ -29,4 +31,6 @@ image:
 
 ![王利民教授参加圆桌论坛](forum_discussion.jpeg)
 
-<center><em>图：王利民教授参加2025蚂蚁Intech科技奖颁奖典礼圆桌论坛</em></center>
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">
+图：王利民教授参加2025蚂蚁Intech科技奖颁奖典礼圆桌论坛
+</p>

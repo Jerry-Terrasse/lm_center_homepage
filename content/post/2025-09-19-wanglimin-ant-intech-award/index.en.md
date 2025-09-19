@@ -21,7 +21,9 @@ The 2025 Ant Intech Award is established by Ant Group Co., Ltd., providing publi
 
 ![2025 Ant Intech Technology Award Ceremony](award_ceremony.jpeg)
 
-<center><em>Figure: 2025 Ant Intech Technology Award Ceremony</em></center>
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">
+Figure: 2025 Ant Intech Technology Award Ceremony
+</p>
 
 Academicians and industry authorities attended the award ceremony, including Chen Chun (Academician of Chinese Academy of Engineering, Professor at Zhejiang University), Zhang Hongjiang (Foreign Academician of US National Academy of Engineering), and Zheng Weimin (Academician of Chinese Academy of Engineering, Professor at Tsinghua University). Michael I. Jordan (Member of US National Academy of Sciences, Engineering, and Arts & Sciences) and Jack Dongarra (Turing Award winner, Academician of US National Academy of Engineering, Professor at University of Tennessee) sent video messages to young scholars: "The path of research may not be smooth, but the problems you explore today will define future technologies and opportunities. Be bold in seeking truth, and your research will ultimately impact the world."
 
@@ -29,4 +31,6 @@ It is understood that this year's award recipients have demonstrated exceptional
 
 ![Professor Wang Limin Participating in Round Table Forum](forum_discussion.jpeg)
 
-<center><em>Figure: Professor Wang Limin participating in the 2025 Ant Intech Technology Award ceremony round table forum</em></center>
+<p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 5px;">
+Figure: Professor Wang Limin participating in the 2025 Ant Intech Technology Award ceremony round table forum
+</p>
