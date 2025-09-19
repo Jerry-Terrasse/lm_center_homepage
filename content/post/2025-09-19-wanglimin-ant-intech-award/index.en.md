@@ -1,6 +1,6 @@
 ---
 title: Professor Wang Limin Receives 2025 Ant Intech Technology Award
-summary: At the 2025 Inclusion Bund Conference, Professor Wang Limin received the 2025 Ant Intech Technology Award, and doctoral student Li Shumeng received the Ant Intech Scholarship.
+summary: At the 2025 Inclusion Bund Conference, Professor Wang Limin received the 2025 Ant Intech Technology Award.
 date: 2025-09-19
 authors:
   - admin
@@ -13,7 +13,7 @@ image:
   preview_only: false
 ---
 
-Recently, at the 2025 Inclusion Bund Conference, the "2025 Ant Intech Award" was officially announced. 10 young scientists received the "Ant Intech Technology Award". At the same time, 10 Chinese doctoral students from top universities worldwide received the "Ant Intech Scholarship". Among them, Professor Wang Limin received the 2025 Ant Intech Technology Award, and doctoral student Li Shumeng received the Ant Intech Scholarship.
+Recently, at the 2025 Inclusion Bund Conference, the "2025 Ant Intech Award" was officially announced. 10 young scientists received the "Ant Intech Technology Award". At the same time, 10 Chinese doctoral students from top universities worldwide received the "Ant Intech Scholarship". Among them, Professor Wang Limin received the 2025 Ant Intech Technology Award.
 
 The 2025 Ant Intech Award is established by Ant Group Co., Ltd., providing public welfare research funding support for outstanding young scholars and doctoral students in the field of computer science, with two core awards: the "Ant Intech Technology Award" and the "Ant Intech Scholarship".
 
