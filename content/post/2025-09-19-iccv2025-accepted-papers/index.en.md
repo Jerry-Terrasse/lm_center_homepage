@@ -1,5 +1,5 @@
 ---
-title: "ICCV 2025 Accepted Papers (NJU MCG)"
+title: "ICCV 2025 Accepted Papers"
 summary: "ICCV is one of the most influential top-tier conferences in computer vision. It is organized by the IEEE Computer Society and held biennially alongside CVPR and ECCV as the three flagship vision venues. ICCV covers cutting-edge topics such as image processing, object detection, 3D reconstruction, video understanding, and vision–language research, serving as a premier platform for presenting the latest advances and exchanging ideas. With its very high acceptance standards, ICCV represents the frontier trends and research hotspots of the field. Seven papers from the Large Model Center of the Department of Computer Science and Technology, Nanjing University, have been accepted to ICCV 2025."
 date: 2025-09-19
 authors:
