@@ -22,7 +22,7 @@ sections:
         text: 我们的文章
         url: /lm/publication/
       announcement:
-        text: "我院王利民教授获2025蚂蚁Intech科技奖"
+        text: "大模型中心王利民教授获2025蚂蚁Intech科技奖"
         link:
           text: "更多"
           url: "/lm/post/2025-09-19-wanglimin-ant-intech-award/"
