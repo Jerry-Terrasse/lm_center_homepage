@@ -20,21 +20,22 @@ Based on `bibtex/cvpr2025.bib`, the standardized format includes:
 ```bibtex
 @conference{yang_mobileviclip_2025,
 	title = {Standardized title format},
-	language = {en},
 	booktitle = {Full Conference Proceedings Name},
 	url = {https://arxiv.org/abs/XXXX.XXXXX},
 	author = {Last, First and Last, First and Last, First},
 	year = {YYYY},
+	date = {YYYY-MM-DD},
 }
 ```
 
 ### 4. **Field Formatting Rules**:
 - **title**: Lowercase except for proper nouns protected with braces `{ProperNoun}`
-- **language**: Always `{en}` for English papers
 - **booktitle**: Full conference proceedings name
 - **url**: Preserve original arXiv or paper URLs
 - **author**: Standard BibTeX author format with "and" separators
 - **year**: Publication year
+- **date**: Publication date in YYYY-MM-DD format (required for proper sorting)
+- **language**: Optional field (not required)
 
 ### 5. **Conference-Specific Booktitle Templates**:
 - **CVPR**: `Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition`
@@ -47,9 +48,15 @@ Based on `bibtex/cvpr2025.bib`, the standardized format includes:
 ## Processing Steps
 
 ### Phase 1: Analysis and Preparation
-1. **Read Source BibTeX File**: Load and analyze current format
-2. **Identify Conference Type**: Determine appropriate booktitle based on filename or content
-3. **Extract Entry Information**: Parse existing entries and identify required transformations
+1. **Create Backup**: Automatically backup original file to tmp directory
+   ```bash
+   cp bibtex/filename.bib tmp/filename_ori.bib
+   ```
+2. **Read Source BibTeX File**: Load and analyze current format
+3. **Check for Date Fields**: Analyze if entries contain date information
+4. **Request Date if Missing**: If no date fields found, prompt user for publication date
+5. **Identify Conference Type**: Determine appropriate booktitle based on filename or content
+6. **Extract Entry Information**: Parse existing entries and identify required transformations
 
 ### Phase 2: Format Standardization
 4. **Update Entry Types**: Convert `@article` to `@conference`
@@ -59,9 +66,11 @@ Based on `bibtex/cvpr2025.bib`, the standardized format includes:
    - Protect proper nouns with braces
    - Handle special cases (abbreviations, model names)
 7. **Add Missing Fields**:
-   - `language = {en}`
    - Appropriate `booktitle` for the conference
+   - Add `year` field if missing
+   - Add `date` field using user-provided or detected date
    - Preserve existing `url` fields
+   - Optionally add `language = {en}` (not required)
 
 ### Phase 3: Quality Control
 8. **Validate Format Consistency**: Ensure all entries follow the same pattern
@@ -89,6 +98,7 @@ Based on `bibtex/cvpr2025.bib`, the standardized format includes:
 **Input**: Path to BibTeX file (e.g., `bibtex/iccv2025.bib`)
 
 **Processing**:
+- Create backup of original file in tmp directory
 - Analyze current format and identify conference type
 - Apply standardization transformations
 - Preserve all essential bibliographic information
@@ -108,11 +118,25 @@ The command will automatically detect conference type based on:
 2. **Existing booktitle fields**: Extract conference from partial names
 3. **Manual specification**: Accept conference type as optional parameter
 
+## Date Handling
+
+### Automatic Date Detection
+The command will check for existing date fields in the BibTeX entries. If found, it will preserve them.
+
+### User Date Input Required
+If **no date fields** are found in any entries, the command will:
+1. **Stop processing** and request user input
+2. **Prompt for publication date** in YYYY-MM-DD format
+3. **Apply the same date** to all entries in the file
+4. **Resume processing** after date is provided
+
 ## Usage Examples
 
 ```bash
-# Process ICCV papers
+# Process ICCV papers (will request date if missing)
 /deal-bib bibtex/iccv2025.bib
+# If no dates found, you'll be prompted:
+# "No date fields found. Please provide publication date (YYYY-MM-DD): "
 
 # Process with explicit conference type
 /deal-bib bibtex/papers2025.bib --conference=ICML
@@ -126,14 +150,16 @@ The command will automatically detect conference type based on:
 After processing, the command verifies:
 - All entries use `@conference` type
 - Citation keys follow naming convention
-- Required fields are present
+- Required fields are present (including date)
 - Proper nouns are correctly protected
 - URLs are functional and preserved
 - Author names are properly formatted
 - Conference name is accurate and complete
+- Date fields are consistently formatted
 
 This standardization ensures that Hugo's academic theme can properly display:
 - Complete conference names instead of generic "arXiv preprint"
 - Clickable URLs for paper access
 - Consistent formatting across all publication listings
-- Proper sorting and categorization by venue
+- Proper chronological sorting by publication date
+- Accurate venue-based categorization
