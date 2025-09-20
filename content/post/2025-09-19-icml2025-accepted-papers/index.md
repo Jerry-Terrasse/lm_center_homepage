@@ -1,7 +1,7 @@
 ---
 title: "ICML 2025 录用论文简介"
 summary: "ICML（International Conference on Machine Learning，简称ICML）是机器学习与人工智能领域的国际顶级学术会议，是机器学习领域历史最悠久的、规模最大、影响最广的顶级学术会议之一，也是中国计算机学会CCF推荐的A类会议。南京大学计算机学院大模型中心有4篇论文被ICML 2025录用。"
-date: 2025-09-19
+date: 2025-07-18
 authors:
   - admin
 tags:

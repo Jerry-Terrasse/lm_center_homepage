@@ -1,7 +1,7 @@
 ---
 title: "ICCV 2025 录用论文简介"
 summary: "ICCV（International Conference on Computer Vision）是计算机视觉领域最具影响力的国际顶级学术会议之一，由IEEE计算机学会主办，每两年举办一次，与CVPR、ECCV并称三大视觉会议。会议涵盖图像处理、目标检测、三维重建、视频理解、视觉与语言等前沿研究方向，是全球科研人员展示最新成果、交流思想的重要平台。ICCV的论文录用标准极高，代表了计算机视觉领域的最新技术趋势与研究热点。"
-date: 2025-09-19
+date: 2025-08-12
 authors:
   - admin
 tags:

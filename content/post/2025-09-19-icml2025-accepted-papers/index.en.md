@@ -1,7 +1,7 @@
 ---
 title: "ICML 2025 Accepted Papers"
 summary: "ICML is one of the most prestigious and influential conferences in machine learning. It is among the longest-running and largest venues in the field and a CCF Class-A conference. Four papers from the Large Model Center of the Department of Computer Science and Technology, Nanjing University, were accepted to ICML 2025."
-date: 2025-09-19
+date: 2025-07-18
 authors:
   - admin
 tags:
