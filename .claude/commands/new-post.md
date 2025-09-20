@@ -32,10 +32,10 @@ I will create a complete Hugo post from `/docx2md` output, including post struct
    ```bash
    mkdir -p content/post/YYYY-MM-DD-slug-name
    ```
-7. **Generate YAML Front Matter**: Create proper Hugo front matter
+7. **Generate YAML Front Matter**: Create proper Hugo front matter following established patterns
    ```yaml
    ---
-   title: "Adapted Title for News Format"
+   title: "Title from original document"
    summary: "Generated summary highlighting key achievements"
    date: YYYY-MM-DD
    authors:
@@ -49,6 +49,7 @@ I will create a complete Hugo post from `/docx2md` output, including post struct
 8. **Create Post Content Body**:
    - **Preserve Original Content**: Use original text without modification or simplification
    - **Format Enhancement Only**: Apply Hugo-compatible formatting without changing content
+   - **Follow existing post format**: Analyze existing similar posts to understand the structure and formatting.
    - **Image Integration**: Insert enhanced image references with centered captions:
      ```
      ![STP](stp.png)
@@ -69,7 +70,6 @@ I will create a complete Hugo post from `/docx2md` output, including post struct
 ## Phase 5: Bilingual Support
 10. **Create English Version**: Generate `index.en.md`
     - Copy Chinese version structure
-    - Mark content for translation with [TODO: Translate] placeholders
     - Maintain same image references and structure
     - Preserve technical terms and paper citations
 
