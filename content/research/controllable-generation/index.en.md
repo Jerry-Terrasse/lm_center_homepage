@@ -16,7 +16,7 @@ sections:
       filters:
         folders:
           - authors
-        tag: controllable_generation_prof
+        tag: ctrl_prof
       count: 0
     design:
       view: people-grid
