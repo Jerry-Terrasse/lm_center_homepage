@@ -1,6 +1,6 @@
 ---
 title: 大模型可控生成小组
-date: 1030-01-01 # to control the display order
+date: 1002-10-01 # to control the display order
 # author: test
 type: landing
 

@@ -1,6 +1,6 @@
 ---
 title: Controllable Generation Group
-date: 1030-01-01 # to control the display order
+date: 1002-10-01 # to control the display order
 # author: test
 type: landing
 
