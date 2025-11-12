@@ -1,5 +1,5 @@
 ---
-title: Controllable Generation Group
+title: Controllable Generation Research Group
 date: 1002-10-01 # to control the display order
 # author: test
 type: landing
@@ -25,7 +25,7 @@ sections:
     content:
       title: Research Overview
       text: |
-        The Controlled Generation Group has long been engaged in research related to the generation capabilities of large language models and multimodal models. Currently, the group focuses on controllable generation techniques for large models to enhance their outputs along specific attributes. Their research centers on methods such as intervention and guidance of large models, conditional control in multimodal large models, and neuron or activation localization within large models to steer their generation. Some representative achievements are as follows:
+        The Controlled Generation Research Group has long been engaged in research related to the generation capabilities of large language models and multimodal models. Currently, the group focuses on controllable generation techniques for large models to enhance their outputs along specific attributes. Their research centers on methods such as intervention and guidance of large models, conditional control in multimodal large models, and neuron or activation localization within large models to steer their generation. Some representative achievements are as follows:
 
         ### Achievement 1: Controllable Generation Based on Language Model Steering
 
@@ -72,4 +72,4 @@ sections:
         </div>
 ---
 
-The Controlled Generation Group has long been engaged in research related to the generation capabilities of large language models and multimodal models. Currently, the group focuses on controllable generation techniques for large models to enhance their outputs along specific attributes. Their research centers on methods such as intervention and guidance of large models, conditional control in multimodal large models, and neuron or activation localization within large models to steer their generation.
+The Controlled Generation Research Group has long been engaged in research related to the generation capabilities of large language models and multimodal models. Currently, the group focuses on controllable generation techniques for large models to enhance their outputs along specific attributes. Their research centers on methods such as intervention and guidance of large models, conditional control in multimodal large models, and neuron or activation localization within large models to steer their generation.
