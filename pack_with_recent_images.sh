@@ -10,8 +10,7 @@ echo "Looking for image files modified since: $WEEK_AGO"
 # Get list of image files modified in the last week from git history
 RECENT_IMAGES=$(git log --since="$WEEK_AGO" --name-only --pretty=format: --diff-filter=AM | \
     grep -E '\.(jpg|jpeg|png|gif|svg|webp)$' | \
-    sort | uniq | \
-    grep -v '^$')
+    sort | uniq || true)
 
 if [ -z "$RECENT_IMAGES" ]; then
     echo "No image files modified in the last week."
