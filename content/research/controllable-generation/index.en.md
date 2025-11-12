@@ -25,7 +25,7 @@ sections:
     content:
       title: Research Overview
       text: |
-        The Controllable Generation Group has long been engaged in research related to the generation of large language models and multimodal models. Currently, the group focuses on researching controllable generation techniques for large models to enhance their output on specific attributes. The group focuses on intervention and guidance of large models, conditional control of multimodal large models, and techniques for locating neurons and activations in large models to control their generation. Representative achievements are as follows:
+        The Controlled Generation Group has long been engaged in research related to the generation capabilities of large language models and multimodal models. Currently, the group focuses on controllable generation techniques for large models to enhance their outputs along specific attributes. Their research centers on methods such as intervention and guidance of large models, conditional control in multimodal large models, and neuron or activation localization within large models to steer their generation. Some representative achievements are as follows:
 
         ### Achievement 1: Controllable Generation Based on Language Model Steering
 
@@ -62,7 +62,7 @@ sections:
         #### Related Papers:
 
         <div>
-          <a href="https://tenvence.github.io/">Cong Wang</a>, Zexuan Deng, <a href="https://zhiweinju.github.io/">Zhiwei Jiang</a>, <a href="https://muzishen.github.io/">Fei Shen</a>, <a href="https://yafengnju.github.io/">Yafeng Yin</a>, Shiwei Gan, <a href="https://zifengcheng.github.io/">Zifeng Cheng</a>, <a href="https://shipingge.github.io/">Shiping Ge</a>, <a href="https://isetnju.github.io/guq/index.html">Qing Gu</a>. <a href="https://arxiv.org/abs/2506.15980" target="_blank">Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization</a>, in NeurIPS 2025 (spotlight).
+          Cong Wang, Zexuan Deng, Zhiwei Jiang, Yafeng Yin, Fei Shen, Shiwei Gan, Zifeng Cheng, Shiping Ge, Qing Gu. <a href="https://arxiv.org/abs/2506.15980" target="_blank">Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization</a>, in NeurIPS 2025 (spotlight).
 
           Yuchen Fu, Zhiwei Jiang, Yuliang Liu, Cong Wang, Zexuan Deng, Zhaoling Chen, Qing Gu. <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/b2077e6d66da612fcb701589efa9ce88-Abstract-Conference.html" target="_blank">AP-Adapter: Improving Generalization of Automatic Prompts on Unseen Text-to-Image Diffusion Models</a>, in NeurIPS 2024.
 
@@ -72,4 +72,4 @@ sections:
         </div>
 ---
 
-The Controllable Generation Group has long been engaged in research related to the generation of large language models and multimodal models. Currently, the group focuses on researching controllable generation techniques for large models to enhance their output on specific attributes. The group focuses on intervention and guidance of large models, conditional control of multimodal large models, and techniques for locating neurons and activations in large models to control their generation.
+The Controlled Generation Group has long been engaged in research related to the generation capabilities of large language models and multimodal models. Currently, the group focuses on controllable generation techniques for large models to enhance their outputs along specific attributes. Their research centers on methods such as intervention and guidance of large models, conditional control in multimodal large models, and neuron or activation localization within large models to steer their generation.

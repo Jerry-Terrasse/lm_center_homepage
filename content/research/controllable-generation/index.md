@@ -25,7 +25,7 @@ sections:
     content:
       title: 重要成果简介
       text: |
-        大模型可控生成小组长期从事大语言模型和多模态模型的生成相关研究。目前，研究组致力于研究大模型的可控生成技术以增强大模型在特定属性上的输出。研究组专注于大模型的干预和引导、多模态大模型的条件控制、大模型的神经元和激活定位等技术来控制其生成。代表性成果如下：
+        大模型可控生成小组长期从事大语言模型和多模态模型的生成相关研究。目前，研究小组致力于研究大模型的可控生成技术以增强大模型在特定属性上的输出，专注于大模型的干预和引导、多模态大模型的条件控制、大模型的神经元和激活定位等技术来控制其生成。代表性成果如下：
 
         ### 代表性成果1：基于大语言模型引导技术的可控生成
 
@@ -62,7 +62,7 @@ sections:
         #### 相关论文：
 
         <div>
-          <a href="https://tenvence.github.io/">Cong Wang</a>, Zexuan Deng, <a href="https://zhiweinju.github.io/">Zhiwei Jiang</a>, <a href="https://muzishen.github.io/">Fei Shen</a>, <a href="https://yafengnju.github.io/">Yafeng Yin</a>, Shiwei Gan, <a href="https://zifengcheng.github.io/">Zifeng Cheng</a>, <a href="https://shipingge.github.io/">Shiping Ge</a>, <a href="https://isetnju.github.io/guq/index.html">Qing Gu</a>. <a href="https://arxiv.org/abs/2506.15980" target="_blank">Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization</a>, in NeurIPS 2025 (spotlight).
+          Cong Wang, Zexuan Deng, Zhiwei Jiang, Yafeng Yin, Fei Shen, Shiwei Gan, Zifeng Cheng, Shiping Ge, Qing Gu. <a href="https://arxiv.org/abs/2506.15980" target="_blank">Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization</a>, in NeurIPS 2025 (spotlight).
 
           Yuchen Fu, Zhiwei Jiang, Yuliang Liu, Cong Wang, Zexuan Deng, Zhaoling Chen, Qing Gu. <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/b2077e6d66da612fcb701589efa9ce88-Abstract-Conference.html" target="_blank">AP-Adapter: Improving Generalization of Automatic Prompts on Unseen Text-to-Image Diffusion Models</a>, in NeurIPS 2024.
 
@@ -72,4 +72,4 @@ sections:
         </div>
 ---
 
-大模型可控生成小组长期从事大语言模型和多模态模型的生成相关研究。目前，研究组致力于研究大模型的可控生成技术以增强大模型在特定属性上的输出。研究组专注于大模型的干预和引导、多模态大模型的条件控制、大模型的神经元和激活定位等技术来控制其生成。
+大模型可控生成小组长期从事大语言模型和多模态模型的生成相关研究。目前，研究小组致力于研究大模型的可控生成技术以增强大模型在特定属性上的输出，专注于大模型的干预和引导、多模态大模型的条件控制、大模型的神经元和激活定位等技术来控制其生成。
