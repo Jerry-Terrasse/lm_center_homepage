@@ -9,7 +9,7 @@ tags:
   - conference
   - natural_language_processing
 image:
-  filename: cover.jpg
+  filename: cover_deal.jpg
 ---
 
 ACL（Annual Meeting of the Association for Computational Linguistics，简称 ACL）是自然语言处理与计算语言学领域的国际顶级学术会议之一，由国际计算语言学协会主办，每年举办一次，长期汇聚全球高校、科研机构和产业界在语言理解、机器翻译、信息抽取、对话系统、大语言模型、多模态语言智能等方向的前沿研究成果。ACL 是中国计算机学会 CCF 推荐的人工智能领域 A 类国际学术会议，与 EMNLP、NAACL 等共同构成自然语言处理领域最具影响力的会议体系，其中 ACL 通常被视为该领域的旗舰会议。根据 Google Scholar Metrics 2025 最新发布的全球学术期刊和会议影响力排名，ACL 在 Computational Linguistics 类别中位列第 1。

@@ -9,7 +9,7 @@ tags:
   - conference
   - natural_language_processing
 image:
-  filename: cover.jpg
+  filename: cover_deal.jpg
 ---
 
 ACL (Annual Meeting of the Association for Computational Linguistics) is one of the top international conferences in natural language processing and computational linguistics. Organized annually by the Association for Computational Linguistics, it brings together frontier research from universities, research institutes, and industry in language understanding, machine translation, information extraction, dialogue systems, large language models, multimodal language intelligence, and related areas. ACL is a CCF-A conference in artificial intelligence and, together with EMNLP and NAACL, forms the core group of the most influential conferences in NLP. According to Google Scholar Metrics 2025, ACL ranks No. 1 in the Computational Linguistics category.

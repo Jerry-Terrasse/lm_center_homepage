@@ -9,7 +9,7 @@ tags:
   - conference
   - computer_vision
 image:
-  filename: cover.jpg
+  filename: cover_deal.jpg
 ---
 
 CVPR（IEEE/CVF Conference on Computer Vision and Pattern Recognition，计算机视觉和模式识别会议）是国际上最具影响力的人工智能学术会议之一，主要聚焦计算机视觉、模式识别及相关人工智能领域的前沿研究。根据 2025 年 Google Scholar Metrics，CVPR 在全球英文期刊和会议中排名第 2，仅次于 Nature；在 Engineering & Computer Science 类别中排名第 1，显示出其在人工智能与计算机视觉领域的高度学术影响力。

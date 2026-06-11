@@ -9,7 +9,7 @@ tags:
   - conference
   - machine_learning
 image:
-  filename: paper01.png
+  filename: paper01_deal.jpg
 ---
 
 ICLR（International Conference on Learning Representations）是人工智能领域中专注于深度学习和表征学习的顶级学术会议之一。南京大学计算机学院大模型中心有11篇论文被ICLR 2026录用。

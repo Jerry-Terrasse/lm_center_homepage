@@ -9,7 +9,7 @@ tags:
   - conference
   - machine_learning
 image:
-  filename: paper01.png
+  filename: paper01_deal.jpg
 ---
 
 ICLR (International Conference on Learning Representations) is one of the leading AI conferences focusing on deep learning and representation learning. Eleven papers from the Large Model Innovation Center at Nanjing University’s School of Computer Science were accepted at ICLR 2026.

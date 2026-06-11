@@ -111,8 +111,9 @@ This project includes custom slash commands for document processing workflow:
 ### Workflow: DOCX to Published Post
 1. **Convert**: `/docx2md path/to/document.docx` - Process DOCX and extract content
 2. **Review**: Manually check conversion results and make adjustments if needed
-3. **Publish**: `/new-post path/to/docx2md/work/directory` - Create Hugo post with validation
-4. **Synchronize**: Update corresponding English versions of any modified content
+3. **Cover**: Process the post cover with `deal_cover.py` and reference the generated `_deal.jpg` file in front matter
+4. **Publish**: `/new-post path/to/docx2md/work/directory` - Create Hugo post with validation
+5. **Synchronize**: Update corresponding English versions of any modified content
 
 **Important**: Both slash commands create bilingual content structure but English versions require manual translation.
 

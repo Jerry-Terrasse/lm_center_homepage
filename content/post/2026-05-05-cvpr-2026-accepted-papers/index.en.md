@@ -9,7 +9,7 @@ tags:
   - conference
   - computer_vision
 image:
-  filename: cover.jpg
+  filename: cover_deal.jpg
 ---
 
 CVPR (IEEE/CVF Conference on Computer Vision and Pattern Recognition) is one of the most influential international conferences in artificial intelligence, focusing on frontier research in computer vision, pattern recognition, and related AI areas. According to Google Scholar Metrics 2025, CVPR ranks No. 2 among all English-language journals and conferences worldwide, second only to Nature, and No. 1 in the Engineering & Computer Science category.
